@@ -1,0 +1,180 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">拒绝或放弃医学治疗告知书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 23:36:24" level="0" />
+    <savelog name="" time="2022-11-25 19:11:19" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:32:39" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215083239" version="1.0" modifier="2" patientid="006766_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1938" hidden-all-border="0">
+      <table-column columns-number="1">
+        <column-width width="1938" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1938" height="1498" contentwidth="1898" contentheight="1468" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    尊敬的患者或授权（法定）代理人：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    根据患者目前的疾病状况，医生认为患者应当接受治疗，并建议患者接受适当的医疗措施。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    但是您现在拒绝或者放弃我院医务人员建议的以下医疗措施：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    特此告知拒绝或放弃上述医疗措施可能出现的后果包括但不限于：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    1、拒绝或者放弃医学治疗，使在我院原有的治疗中断，有可能导致病情反复甚至加重，从而为以后的诊断和治疗增加困难，甚至是原有疾病无法治愈或者患者丧失最佳治疗时机，也有可能促进或者导致患者死亡；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    2、拒绝或者放弃医学治疗，在我院原有的治疗中断，有可能出现各种感染或使原有的感染加重、伤口延迟愈合、疼痛等各种症状加重或症状持续时间延长，增加患者的痛苦，甚至可能导致不良后果；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    3、拒绝或者放弃医学治疗，在我院原有的治疗中断，患者有可能会出现某一个或者多个器官功能减退、部分功能甚或全部功能的丧失，有可能诱发患者出现出血、休克、其他疾病和症状，甚至产生不良后果；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    4、拒绝或者放弃医学治疗有可能导致原有的医疗花费失去应有的作用；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    5、拒绝或者放弃医学治疗有可能增加患者其他不可预料的风险及不良后果。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1938" height="1198" contentwidth="1898" contentheight="1168" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12"> </span>
+            <span fontname="宋体" fontsize="10.5">患者或授权（法定）代理人意见：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    我（或是患者的监护人）已年满18周岁且具有完全民事行为能力，我拒绝或者放弃医院对我的医学治疗服务。医务人员已经向我解释了接受医疗措施对我的疾病治疗的重要性和必要性，并且已将拒绝或者放弃医学治疗的风险及后果向我做了详细的告知。我仍然坚持拒绝或者放弃医学治疗。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    我自愿承担拒绝或者放弃医学治疗所带来的风险和不良后果。我拒绝或者放弃医学治疗产生的不良后果与医院及医务人员无关。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">患者或授权（法定）代理人签字：                  与患者关系：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5" fontbold="1">    患者或授权（法定）代理人通讯地址：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5" fontbold="1">    患者或授权（法定）代理人工作单位：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5" fontbold="1">    联系电话：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">                                                       年     月     日     时     分</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1938" height="258" contentwidth="1898" contentheight="228" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">    </span>
+            <span fontname="宋体" fontsize="12" fontbold="1">告知医生签字：</span>
+            <macro fontname="宋体" fontsize="12" fontbold="1" type="macro" name="医师签名">王辉</macro>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12">                                                </span>
+            <span fontname="宋体" fontsize="10.5">年     月     日     时     分</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p>
+      <eof />
+    </p>
+  </body>
+</document>

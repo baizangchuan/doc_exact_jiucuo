@@ -1,0 +1,173 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">手术记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘金荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">87岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">44</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006458</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10">第</span>
+      <span fontsize="10">[%pageindex%]</span>
+      <span fontsize="10">页</span>
+      <eof fontsize="10.5" />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-12-13 17:10:07" level="0" />
+    <savelog name="" time="2023-02-15 08:45:53" level="0" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" headlinespace="18" headheight="306" modifytime="20230215084553" version="1.0" modifier="1" showheader="True" showfooter="True" showheaderline="True" showfooterline="True" patientid="006458_1" />
+  <body>
+    <p>
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="手术日期" level="" print="True">手术日期</roelement>
+      <span fontname="宋体" fontsize="12">:</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="手术日期" formatString="yyyy年MM月dd日">2022年12月14日</ftimeelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日"> </span>
+      <eof fontsize="10.5" />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术前诊断" formatString="yyyy年MM月dd日" fontbold="1" level="" print="True">术前诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">：腕管手术 </span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术后诊断" fontbold="1" level="" print="True">术后诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">：腕管手术</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术名称" fontbold="1" level="" print="True">手术名称</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">：腕管手术</span>
+      <eof fontsize="10.5" />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1854" hidden-all-border="1">
+      <table-column columns-number="2">
+        <column-width width="981" />
+        <column-width width="873" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="981" height="88" contentwidth="941" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">术者</span>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">：张宁</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="873" height="88" contentwidth="833" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">助   手</span>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">：张宁</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="981" height="88" contentwidth="941" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">麻醉方法</span>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">:局部麻醉  </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="873" height="88" contentwidth="833" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长" fontbold="1">麻醉医师</span>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">：张宁</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术经过、术中出现情况及处理：" fontbold="1" level="" print="True">手术经过、术中出现情况及处理：</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术经过、术中出现情况及处理：" fontbold="1" level="" print="True">重症肌无力，眼肌型患者取平卧位,双侧腹股沟消毒,范围上界平脐,下界平股骨中段,两侧为腋中线,铺开刀巾及无菌大单。取右侧腹股沟皮肤皱褶下1.5cm为皮肤穿刺点,18G穿刺针穿刺股动脉成功后导入穿刺导丝,经导丝置入5F血管鞘,肝素生理盐水冲洗鞘管后经静脉给予肝素2000单位。透视下经导丝引导猪尾导管置于升主动脉,撤导丝后导管接高压注射器,行主动脉弓造影,造影剂量25ml,流速20ml/s,压力800atm。肝素生理盐水冲洗后撤猪尾导管。透视下经导丝引单弯导管置于升主动脉,导管头端翘起,缓慢回撤导管,依次行右椎动脉、右侧颈动脉、左椎动脉、左侧颈动脉造影,手术顺利。手术后结果提示: 脑血管未见明显异常,左椎动脉为后循环优势供血。常规血管闭合术,术中出血约10ml,患者无任何不适,术毕安返病房。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="3">
+        <column-width width="634" />
+        <column-width width="632" />
+        <column-width width="636" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="632" height="88" contentwidth="592" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="636" height="88" contentwidth="596" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">医师签名：</span>
+            <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名">王辉</macro>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="632" height="88" contentwidth="592" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p />
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="636" height="88" contentwidth="596" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名">签名日期：</span>
+            <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="当前日期">2022年12月13日</macro>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <eof />
+    </p>
+  </body>
+</document>

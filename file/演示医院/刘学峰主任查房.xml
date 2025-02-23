@@ -1,0 +1,302 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">病程记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-25 19:06:34" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:28:13" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" headlinespace="18" headheight="306" modifytime="20230215082813" version="1.0" modifier="1" showheader="True" showfooter="True" showheaderline="True" showfooterline="True" pagebackcolor="Color [White]" title="" id="" patientid="006766_1" />
+  <body>
+    <p>
+      <text fontbold="1" fontsize="12" type="text" name="记录日期">2022-11-25 19:06:22</text>
+      <span fontbold="1" fontsize="12">          </span>
+      <text fontsize="12" type="text" name="标题">  </text>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">    今日主任查房，患者，</span>
+      <selement fontsize="12" mustclick="False" code="" type="singleelement" name="无" text="无">
+        <item selected="false" code="" group="">有</item>
+        <item selected="false" code="" group="">无</item>
+      </selement>
+      <span fontsize="12" mustclick="False" code="" type="singleelement" name="无" text="无">饮水呛咳。查体：Bp：mmHg</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">神志</span>
+      <selement mustclick="False" type="singleelement" name="意识" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="清楚" fontsize="12" code="">
+        <item selected="true" code="" group="">清楚</item>
+        <item selected="false" code="" group="">嗜睡</item>
+        <item selected="false" code="" group="">模糊</item>
+        <item selected="false" code="" group="">昏睡</item>
+        <item selected="false" code="" group="">谵妄</item>
+        <item selected="false" code="" group="">浅昏迷</item>
+        <item selected="false" code="" group="">深昏迷</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="意识" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="清楚" fontsize="12" code="">，言语</span>
+      <selement mustclick="False" type="singleelement" name="言语" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="流利" fontsize="12" code="">
+        <item selected="true" code="" group="">流利</item>
+        <item selected="false" code="" group="">蹇涩</item>
+        <item selected="false" code="" group="">欠流利</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="意识" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="清楚" fontsize="12" code="">，精神</span>
+      <selement mustclick="False" type="singleelement" name="精神" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="欠佳" fontsize="12" code="">
+        <item selected="false" code="" group="">好</item>
+        <item selected="false" code="" group="">可</item>
+        <item selected="false" code="" group="">差</item>
+        <item selected="true" code="" group="">欠佳</item>
+      </selement>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">，双侧瞳孔</span>
+      <selement mustclick="False" type="singleelement" name="瞳孔" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="正大等圆" fontsize="12" code="">
+        <item selected="true" code="" group="">正大等圆</item>
+        <item selected="false" code="" group="">不等</item>
+      </selement>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">，对光反射</span>
+      <selement mustclick="False" type="singleelement" name="对光反射" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="灵敏" fontsize="12" code="">
+        <item selected="true" code="" group="">灵敏</item>
+        <item selected="false" code="" group="">迟钝</item>
+        <item selected="false" code="" group="">消失</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="对光反射" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="灵敏" fontsize="12" code="">。</span>
+      <span mustclick="False" type="multielement" name="口腔粘膜" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="正常" fontsize="12" code="">口角</span>
+      <selement mustclick="False" type="singleelement" name="不歪" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无歪斜" fontsize="12" code="">
+        <item selected="true" code="" group="">无歪斜</item>
+        <item selected="false" code="" group="">左歪</item>
+        <item selected="false" code="" group="">右歪</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="口腔粘膜" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="正常" fontsize="12" code="">，</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">伸舌</span>
+      <selement mustclick="False" type="singleelement" name="居中" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12" code="" text="居中">
+        <item selected="false" code="" group="">居中</item>
+        <item selected="false" code="" group="">偏左</item>
+        <item selected="false" code="" group="">偏右</item>
+      </selement>
+      <span mustclick="False" type="formatnumber" name="收缩压" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" fontsize="12">，颈</span>
+      <selement mustclick="False" type="singleelement" name="颈" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="软" fontsize="12" code="">
+        <item selected="true" code="" group="">软</item>
+        <item selected="false" code="" group="">强直</item>
+      </selement>
+      <selement mustclick="False" type="singleelement" name="经抵抗" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无抵抗" fontsize="12" code="">
+        <item selected="true" code="" group="">无抵抗</item>
+        <item selected="false" code="" group="">有抵抗</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="颈" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="软" fontsize="12" code="">，双肺</span>
+      <selement mustclick="False" type="multielement" name="呼吸音" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="呼吸音清" fontsize="12" code="">
+        <item selected="true" code="" group="">呼吸音清</item>
+        <item selected="false" code="" group="">呼吸音粗</item>
+        <item selected="false" code="" group="">异常支气管呼吸音</item>
+        <item selected="false" code="" group="">异常支气管肺泡呼吸音</item>
+        <item selected="false" code="" group="">异常肺泡呼吸音</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="甲状腺" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无肿大" fontsize="12" code="">，</span>
+      <selement mustclick="False" type="singleelement" name="闻及否" text="未闻及" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">可闻及</item>
+        <item selected="true" code="" group="">未闻及</item>
+      </selement>
+      <selement mustclick="False" type="multielement" name="啰音" text="干、湿性啰音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">干、湿性啰音</item>
+        <item selected="false" code="" group="">湿啰音</item>
+        <item selected="false" code="" group="">干啰音</item>
+        <item selected="false" code="" group="">响亮性湿啰音</item>
+        <item selected="false" code="" group="">非响亮性湿啰音</item>
+        <item selected="false" code="" group="">粗湿啰音</item>
+        <item selected="false" code="" group="">中湿啰音</item>
+        <item selected="false" code="" group="">细湿啰音</item>
+        <item selected="false" code="" group="">捻发音</item>
+        <item selected="false" code="" group="">吸气早期湿啰音</item>
+        <item selected="false" code="" group="">吸气后期湿啰音</item>
+        <item selected="false" code="" group="">高调干啰音</item>
+        <item selected="false" code="" group="">低调干啰音</item>
+        <item selected="false" code="" group="">弥漫性干啰音</item>
+        <item selected="false" code="" group="">局限性干啰音</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="啰音" text="干、湿性啰音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">；</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">心率</span>
+      <fnumelement mustclick="False" type="formatnumber" name="心率" text="叩诊音" maxvalue="300" minvalue="20" length="3" decimalDigits="0" value="80" fontsize="12" code="">80</fnumelement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">次/分，律</span>
+      <selement mustclick="False" type="singleelement" name="心率" text="齐" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">齐</item>
+        <item selected="false" code="" group="">不齐</item>
+        <item selected="false" code="" group="">绝对不齐</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">，</span>
+      <selement mustclick="False" type="multielement" name="位置" text="全腹" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">全腹</item>
+        <item selected="false" code="" group="">右上腹</item>
+        <item selected="false" code="" group="">右下腹</item>
+        <item selected="false" code="" group="">中腹</item>
+        <item selected="false" code="" group="">剑突下</item>
+        <item selected="false" code="" group="">左上腹</item>
+        <item selected="false" code="" group="">脐周</item>
+        <item selected="false" code="" group="">左下腹</item>
+        <item selected="false" code="" group="">无</item>
+        <item selected="false" code="" group="">下腹</item>
+      </selement>
+      <selement mustclick="False" type="havenotelement" name="压痛反跳痛" text="无压痛、反跳痛、肌紧张" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" prifix="有" postfix="无" code="">
+        <item selected="false" code="" group="">压痛</item>
+        <item selected="false" code="" group="">反跳痛</item>
+        <item selected="false" code="" group="">肌紧张</item>
+      </selement>
+      <span mustclick="False" type="havenotelement" name="压痛反跳痛" text="无压痛、反跳痛、肌紧张" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" prifix="有" postfix="无" code="">，</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">肠鸣音</span>
+      <selement mustclick="False" type="singleelement" name="肠鸣音" text="正常" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">正常</item>
+        <item selected="false" code="" group="">亢进</item>
+        <item selected="false" code="" group="">减弱</item>
+        <item selected="false" code="" group="">消失</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">，</span>
+      <selement mustclick="False" type="singleelement" name="肢体" text="双下肢" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">双下肢</item>
+        <item selected="false" code="" group="">右下肢</item>
+        <item selected="false" code="" group="">左下肢</item>
+      </selement>
+      <selement mustclick="False" type="singleelement" name="双下肢" text="无浮肿" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">无浮肿</item>
+        <item selected="false" code="" group="">浮肿</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="双下肢" text="无浮肿" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，左上肢</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">肌力</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="Ⅴ" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">0</item>
+        <item selected="false" code="" group="">Ⅰ</item>
+        <item selected="false" code="" group="">Ⅱ</item>
+        <item selected="false" code="" group="">Ⅲ</item>
+        <item selected="false" code="" group="">Ⅳ</item>
+        <item selected="true" code="" group="">Ⅴ</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">级、肌张力</span>
+      <selement mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">适中</item>
+        <item selected="false" code="" group="">增高</item>
+        <item selected="false" code="" group="">减弱</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，</span>
+      <span mustclick="False" type="singleelement" name="双下肢" text="无浮肿" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">左下肢</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">肌力</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="Ⅴ" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">0</item>
+        <item selected="false" code="" group="">Ⅰ</item>
+        <item selected="false" code="" group="">Ⅱ</item>
+        <item selected="false" code="" group="">Ⅲ</item>
+        <item selected="false" code="" group="">Ⅳ</item>
+        <item selected="true" code="" group="">Ⅴ</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">级、肌张力</span>
+      <selement mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">适中</item>
+        <item selected="false" code="" group="">增高</item>
+        <item selected="false" code="" group="">减弱</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">右</span>
+      <span mustclick="False" type="singleelement" name="双下肢" text="无浮肿" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">上肢</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">肌力</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="Ⅴ" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">0</item>
+        <item selected="false" code="" group="">Ⅰ</item>
+        <item selected="false" code="" group="">Ⅱ</item>
+        <item selected="false" code="" group="">Ⅲ</item>
+        <item selected="false" code="" group="">Ⅳ</item>
+        <item selected="true" code="" group="">Ⅴ</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">级、肌张力</span>
+      <selement mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">适中</item>
+        <item selected="false" code="" group="">增高</item>
+        <item selected="false" code="" group="">减弱</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">右下</span>
+      <span mustclick="False" type="singleelement" name="双下肢" text="无浮肿" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">肢</span>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">肌力</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="Ⅴ" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">0</item>
+        <item selected="false" code="" group="">Ⅰ</item>
+        <item selected="false" code="" group="">Ⅱ</item>
+        <item selected="false" code="" group="">Ⅲ</item>
+        <item selected="false" code="" group="">Ⅳ</item>
+        <item selected="true" code="" group="">Ⅴ</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">级，肌张力</span>
+      <selement mustclick="False" type="singleelement" name="肌张力" text="适中" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">适中</item>
+        <item selected="false" code="" group="">增高</item>
+        <item selected="false" code="" group="">减弱</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">。神经系统：左侧Babinski征</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="(-)" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">(+)</item>
+        <item selected="true" code="" group="">(-)</item>
+      </selement>
+      <span mustclick="False" type="multielement" name="叩诊音" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">，右侧Babinski征</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="(-)" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="false" code="" group="">(+)</item>
+        <item selected="true" code="" group="">(-)</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="单选" text="(-)" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，左侧指鼻试验</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="准确" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">准确</item>
+        <item selected="false" code="" group="">不稳</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="单选" text="(-)" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，右侧指鼻试验</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="准确" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">准确</item>
+        <item selected="false" code="" group="">不稳</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="单选" text="单选" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">。左侧跟-膝-胫试验</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="准确" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">准确</item>
+        <item selected="false" code="" group="">不稳</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="单选" text="单选" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">，右侧跟-膝-胫试验</span>
+      <selement mustclick="False" type="singleelement" name="单选" text="准确" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">
+        <item selected="true" code="" group="">准确</item>
+        <item selected="false" code="" group="">不稳</item>
+      </selement>
+      <span mustclick="False" type="singleelement" name="单选" text="单选" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" code="">。主任详查病人后指示：密切观察病情变化，遵嘱执行。</span>
+      <eof />
+    </p>
+    <p align="1">
+      <macro fontsize="12" type="macro" name="医师签名">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

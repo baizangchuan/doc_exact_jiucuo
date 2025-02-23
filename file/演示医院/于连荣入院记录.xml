@@ -1,0 +1,1120 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">入院记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-29 09:33:23" level="0" />
+    <savelog name="" time="2022-11-29 09:34:42" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:48:17" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215084817" version="1.0" modifier="2" patientid="006826_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="6">
+        <column-width width="84" />
+        <column-width width="216" />
+        <column-width width="269" />
+        <column-width width="382" />
+        <column-width width="860" />
+        <column-width width="91" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="姓名" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">姓名</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="姓名" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">于连荣</macro>
+            <span type="macro" name="姓名" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="出生地" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">出生地</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="出生地" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">
+            </macro>
+            <span type="macro" name="出生地" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="性别" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">性别</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="性别" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">女</macro>
+            <span type="macro" name="性别" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="现住址" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">现住址</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="住址" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">
+            </macro>
+            <span type="macro" name="住址" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="年龄" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">年龄</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="年龄" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">60岁</macro>
+            <span type="macro" name="年龄" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="工作单位" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">工作单位</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="工作单位" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">
+            </macro>
+            <span type="macro" name="工作单位" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="婚姻" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">婚姻</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="婚姻状况" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">已婚</macro>
+            <span type="macro" name="婚姻状况" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="入院时间" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">入院时间</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="入科时间" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">2017年02月06日 10:53</macro>
+            <span type="macro" name="入院时间" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="民族" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">民族</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="民族" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">汉族</macro>
+            <span type="macro" name="婚姻状况" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="记录时间" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">记录时间</roelement>
+            <span type="singleelement" name="关系" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <ftimeelement type="formatdatetime" name="记录时间" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" formatString="yyyy年MM月dd日 HH:mm">记录时间</ftimeelement>
+            <span type="macro" name="当前日期" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="84" height="88" contentwidth="44" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="216" height="88" contentwidth="176" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="职业" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">职业</roelement>
+            <span type="singleelement" name="单选" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="269" height="173" contentwidth="229" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <macro type="macro" name="职业" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">退（离）休人员</macro>
+            <span type="macro" name="职业" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="382" height="88" contentwidth="342" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement type="fixedtext" name="病史描述者" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">病史描述者</roelement>
+            <span type="singleelement" name="单选" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人" fontbold="1">：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="88" contentwidth="911" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <selement type="singleelement" name="本人" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">
+              <item selected="false" code="" group="">本人</item>
+              <item selected="false" code="" group="">其他</item>
+              <item selected="false" code="" group="">患者家属</item>
+            </selement>
+            <span type="singleelement" name="单选" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人"> </span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+      </table-row>
+    </table>
+    <p>
+      <span type="singleelement" name="单选" fontsize="12" fontname="宋体" level="" print="True" mustclick="False" code="" text="本人">    </span>
+      <roelement type="fixedtext" name="主诉" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">主　诉</roelement>
+      <span type="fixedtext" name="主诉" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">：突发头痛**小时/天。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span type="fixedtext" name="主诉" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">    </span>
+      <roelement type="fixedtext" name="现病史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">现病史</roelement>
+      <span type="fixedtext" name="现病史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">：患者缘于****************头颜CT示：******************************现为求进一步诊治而来我院，遂以**************收入我科。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span type="replace" name="现病史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">    患者自发病以来，精神可/尚可/差、饮食可/尚可/差、睡眠可/尚可/差，大便正常/次数增多/次数减少，小便正常/次数增多/减少。体重较发病前有/无明显变化。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span type="replace" name="现病史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">    </span>
+      <roelement fontsize="12" type="fixedtext" name="既往史" level="二级" print="True" showborder="False" fontname="宋体" fontbold="1">既往史</roelement>
+      <span type="fixedtext" name="主诉" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">：有/否认高血压病史。病史**年，最高**/** mmHg，有/无规律服药治疗。有/否认 糖尿病病史。有/否认冠心病史。有/否认肝炎、结核等传染病病史。有/否认手术、外伤及输 血史。有/否认食物及药物过敏史。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12" mustclick="False" code="" type="replace" name="过敏史" text="否认手术、外伤、输血史">    </span>
+      <roelement type="fixedtext" name="个人史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">个人史</roelement>
+      <span type="fixedtext" name="个人史" level="" print="True" fontsize="12" showborder="False" fontname="宋体">：生于原籍，久居当地，未/曾到过疫区及牧区，有/否认吸烟、饮酒不良嗜好，否认 性病冶游史。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="multielement" name="吸烟饮酒史" text="无吸烟、饮酒史" fontsize="12" code="" fontname="宋体">    </span>
+      <span mustclick="False" type="multielement" name="吸烟饮酒史" text="无吸烟、饮酒史" fontsize="12" code="" fontname="宋体" fontbold="1">婚姻史</span>
+      <span mustclick="False" type="template" name="生育史" last="持续天数" period="周期" code="" fontsize="12">：未婚/已婚，爱人及子/女均体健。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="template" name="生育史" last="持续天数" period="周期" code="" fontsize="12">    </span>
+      <span mustclick="False" type="template" name="生育史" last="持续天数" period="周期" code="" fontsize="12" fontbold="1">月经及生育史</span>
+      <span mustclick="False" type="template" name="生育史" last="持续天数" period="周期" code="" fontsize="12">：男性/15 51 (末次月经时间）平素月经量中等，颜色正常，有/无痛经。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="mensesFormula" name="月经史公式" last="经期持续天数" period="周期" code="" fontsize="12" firstage="初潮年龄" finallyageordate="末次月经日期（或绝经年龄）">    </span>
+      <roelement mustclick="False" type="fixedtext" name="家族史" text="有毒物质接触史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">家族史</roelement>
+      <span mustclick="False" type="fixedtext" name="家族史" text="有毒物质接触史" level="二级" print="True" fontsize="12" showborder="False" fontname="宋体">：</span>
+      <span mustclick="False" type="template" name="生育史" last="持续天数" period="周期" code="" fontsize="12">家族中成员祖/父/母/兄/弟/姐/妹有/无传染病史，有/无家族遗传病病史。</span>
+      <eof />
+    </p>
+    <p align="2">
+      <roelement mustclick="False" type="fixedtext" name="体格检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" fontbold="1" showborder="False" fontname="宋体">体　 格　 检 　查</roelement>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="4">
+        <column-width width="478" />
+        <column-width width="469" />
+        <column-width width="482" />
+        <column-width width="473" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="478" height="88" contentwidth="438" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="1">
+            <span mustclick="False" type="fixedtext" name="体格检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">T</span>
+            <span mustclick="False" type="singleelement" name="有毒物质接触史" text="有毒物质接触史" fontsize="12" fontname="宋体">： ℃</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="469" height="88" contentwidth="429" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="1">
+            <span mustclick="False" type="singleelement" name="有毒物质接触史" text="有毒物质接触史" fontsize="12" fontname="宋体">P:  次/分</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="482" height="88" contentwidth="442" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="有毒物质接触史" text="有毒物质接触史" fontsize="12" fontname="宋体">R:  次/分</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="473" height="88" contentwidth="433" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="有毒物质接触史" text="有毒物质接触史" fontsize="12" fontname="宋体">BP: / </span>
+            <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体"> mmHg</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体"> </span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">一般状况：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">发育：良好/正常/不良/超常；营养：良好/中等/不良/恶病质；面容：正常/急性/慢性病容；表情：自如/痛苦/忧虑/恐惧/淡漠；体位：自动/被动/半卧位；查体：合作/不合作</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">皮肤、粘膜：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">颜色正常/潮红/苍白/发绀/黄染/色素沉着；有（类型及分布：）/无皮疹；无 /有（部位及程度：）水肿；皮肤弹性正常/减退；毛发分布正常/多毛/稀疏/脱落（部位：）。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">淋巴结：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">全身浅表淋巴结无肿大/肿大（部位及特征：）</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">五官：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">左/右/双眼睑TH常/水肿/下垂/；结膜JH常/苍白/水肿/充血；巩膜无黄染/有黄染； 耳廓正常/畸形，无/有外耳道分泌物，无/有乳突压痛；鼻外形正常/异常，无/有（左/右/双） 副鼻窦压痛；口唇红润/发绀/苍白/疱疹/皲裂，口腔黏膜正常/异常（溃疡/伪膜/出血点 扁桃体无肿大/(I /II /nr/溢脓）肿大，咽部：无/有充血。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">颈部：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">颈动脉搏动正常/搏动增强/(左/右）侧减弱；颈静脉正常/充盈/怒张，无/有颈静脉 血管杂音；气管居中/偏（左/右）；甲状腺正常/ (左/右/双）侧/弥漫性/结节性）肿大。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">胸部/胸廓：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">正常对称/畸形；无/有胸骨叩痛；乳房正常对称/异常（左/右包块/男乳女化/压痛/乳头分泌物）</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">    左/右/双肺呼吸运动对称/增强/减弱；肋间隙正常/左/右/双增宽/左/右/双变窄；触觉语颤正常/(左/右/增强/减弱）；叩诊清音/ (左/右/双浊音/实音/鼓音）；呼吸音正常/ (左/右干性罗音/湿性罗音）；（左/右/双）侧无/有胸膜摩擦音</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">    心前区无/有隆起，心尖搏动位置正常/异常，无/有震颤，相对浊音界正常/缩小/(左/右 /双）侧扩大，心率：次/分，心律齐/不齐绝对不齐，无/有心脏杂音。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">腹部外形正常/异常，无/有胃肠型及蠕动波，腹肌柔软/腹肌紧张，无/有压痛，无/有反跳痛，无/有包块，肝脏未触及/可触及（肋下：/CM，剑突下：/CM)，脾脏未触及/可触及（肋下：/CM)，</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体" fontbold="1">肝浊音界：</span>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">肝上界位于右锁骨中线第5肋间，无/有移动性浊音，无/有肾区叩痛，肠鸣 音正常/亢进/减弱/消失。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">肛门直肠正常/异常/未查 生殖器正常/异常/未查</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">脊柱屈度正常/侧凸/前凸/后凸，无/有压痛，活动度良好/受限</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="formatnumber" name="收缩压" text="有毒物质接触史" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontname="宋体">四肢正常/畸形，无/有关节红肿，无/有关节强直，无/有下肢静脉曲张，无/有杵状指趾。</span>
+      <eof />
+    </p>
+    <p align="2">
+      <text mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12" fontbold="1">神 经 系 统 检 查</text>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">检查合作情况：合作/欠合作/检查不合作</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">神志：清醒/嗜睡/朦胧/躁动/浅昏迷/中度昏迷/深昏迷。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">精神状态：正常/检查不合作</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    情感反应正常/差/丧失；定向力JH常/差/丧失；记忆力：IE常/差/丧失；计算力正常/差/丧失。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">语言：正常/异常/检查不合作</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    失语：无/有（完全/不完全）感觉性/运动性/混合性/命名性失语。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    构音障碍：无/有</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">姿势：正常/偏瘫/强迫头位/去皮层强直/痉挛性姿势</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">少态：FH常步态/截瘫步态/慌张步态/小脑性步态/醉酒步态/感觉性共济失调步态/跨域步态/肌病步态/癔病步态/检查不合作</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">头部：头颅大小正常/大/小；无/有（方颅/尖颅/巨颅）畸形；头皮：正常/异常（裂伤/血月1 /撕脱），强迫头位：无/有（左侧卧/位右侧卧/膝胸卧位）；听诊：正常/杂音/检查不合作颅神经</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    嗅神经：嗅觉：左/右/双侧正常/迟钝/消失；幻嗅：无/有（）。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    视神经：</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">        视力：正常/左/右/双侧减弱；左/右/双侧失明。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">        视野：正常八左/右/双）（颞侧/鼻侧/上/下象限）缺损。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">        眼底：正常/异常/未查（）。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="text" name="神 经 系 统 检 查" text="叩诊音" maxvalue="300" minvalue="70" length="5" decimalDigits="1" value="120" fontsize="12">    动眼、滑车、外展神经：无/有（左/右/双）眼睑下垂；眼裂正常八左/右/双)增大八左/宅 /双）变小；无/有（左/右/双）眼球凹陷；无/有（左/右/双）眼球突出；无/有（左/右/双： 眼球同向偏视；无/有分离斜视；无/有眼震；无/有复视/检查不合作；眼球运动正常/检查：合作/受限（）</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="6">
+        <column-width width="172" />
+        <column-width width="341" />
+        <column-width width="391" />
+        <column-width width="364" />
+        <column-width width="317" />
+        <column-width width="317" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="172" height="88" contentwidth="132" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">瞳孔</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="341" height="88" contentwidth="301" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">直径（mm）</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="391" height="88" contentwidth="351" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">形状</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="364" height="88" contentwidth="324" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">直接光反应</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">间接光反应</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">调解反应</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="172" height="88" contentwidth="132" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">左</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="341" height="88" contentwidth="301" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="391" height="88" contentwidth="351" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">正大等圆</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="364" height="88" contentwidth="324" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="172" height="88" contentwidth="132" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">右</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="341" height="88" contentwidth="301" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="391" height="88" contentwidth="351" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">正大等圆</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="364" height="88" contentwidth="324" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="317" height="88" contentwidth="277" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">灵敏++  迟钝+ 消失○</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    三叉神经：面部感觉正常/过敏/减退/消失（左/右）（第I/II/III支）/检查不合作；赛 口下颌居中/左/右偏斜/检查不合作；咀嚼有力/左/右无力/检查不合作；角膜反射：正常/左/右减弱/左/右消失。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    面神经:面瘫：无/有（左/右中枢性/周围性）；舌前2/3味觉：正常/异常/检查不合作； 面肌抽搐有/无（左/右）。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    位听神经：Rinne实验：左：气导&gt;/&lt;骨导；右：气导&gt;/&lt;骨导；检查不合作；Weber 试验：居中/偏左侧/偏右侧/检查不合作；前庭功能检查：正常/异常/检查不合作 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    舌咽迷走神经：发音：正常/嘶哑/构音不良/检查不合作；吞咽：正常/发呛/困难/检查 不合作；软腭及悬雍垂：居中/偏左/偏右/检查不合作；咽反射：正常/左/右迟钝/左/右消失/检查不合作。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    副神经：耸肩：有力/左/右无力/检查不合作；胸锁乳突肌：正常/左/右萎缩。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    舌下神经：舌肌萎缩：无/有/检查不合作；肌束颤动：无/有/检查不合作；伸舌：居中/偏左/偏右/不能/检查不合作。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">感觉系统检查</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    全身感觉：（痛、温、触、位置、振动、皮层）正常/异常</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    浅感觉障碍：无</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    深感觉障碍：无</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">运动系检查：左利/右利</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    肌容积：左/右/双侧正常/肌萎缩，无/有假性肥大无。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    肌束颤动：无/有</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    肌张力</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    左上肢：正常/减弱/(折刀样/铅管样/齿轮样）增高 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    左下肢：正常/减弱/(折刀样/铅管样/齿轮样）增高</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    右上肢：正常/减弱/(折刀样/铅管样/齿轮样）增高</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    右下肢：正常/减弱/(折刀样/铅管样/齿轮样）增高</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    肌力</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    左上肢：肌力0/I/II/III/IV/V级 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    左下肢：肌力0/I/II/III/IV/V级 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    右上肢：肌力0/I/II/III/IV/V级 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    右下肢：肌力0/I/II/III/IV/V级 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    不自主运动</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">        震颤：无/有（静止性/动作性/姿势性）；舞蹈样动作：无/有；手足徐动：无/有。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">    共济运动</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">        指鼻试验：稳准/(左/右）不稳 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">        快复轮替试验：稳准八左/右）不稳 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">        跟膝胫试验：稳准/(左/右）不稳 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">        Romberg征：（睁闭/眼均/加强）稳/不稳。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">（正常++，减弱+，消失</span>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">○</span>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">）</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="7">
+        <column-width width="218" />
+        <column-width width="304" />
+        <column-width width="313" />
+        <column-width width="303" />
+        <column-width width="250" />
+        <column-width width="269" />
+        <column-width width="245" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="218" height="88" contentwidth="178" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">浅反射</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="304" height="88" contentwidth="264" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">腹壁反射上</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="313" height="88" contentwidth="273" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">腹壁反射中</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="303" height="88" contentwidth="263" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">腹壁反射下</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="250" height="88" contentwidth="210" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">足跖反射</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="269" height="88" contentwidth="229" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">提睾反射</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="245" height="88" contentwidth="205" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">肛门反射</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="218" height="168" contentwidth="178" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">左</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="304" height="168" contentwidth="264" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="313" height="168" contentwidth="273" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="303" height="168" contentwidth="263" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="250" height="168" contentwidth="210" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="269" height="173" contentwidth="229" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇女性未查</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="245" height="168" contentwidth="205" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="218" height="168" contentwidth="178" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">右</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="304" height="168" contentwidth="264" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="313" height="168" contentwidth="273" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="303" height="168" contentwidth="263" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="250" height="168" contentwidth="210" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="269" height="173" contentwidth="229" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="无" fontsize="12" code="">++/+/〇女性未查</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="245" height="168" contentwidth="205" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++/+/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">深反射（亢进++++，活跃+++，正常++，减退+，可疑±，消失○）</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="7">
+        <column-width width="218" />
+        <column-width width="324" />
+        <column-width width="286" />
+        <column-width width="288" />
+        <column-width width="288" />
+        <column-width width="285" />
+        <column-width width="213" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="218" height="88" contentwidth="178" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">深反射</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="324" height="88" contentwidth="284" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">肱二头肌</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="286" height="88" contentwidth="246" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">肱三头肌</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="288" height="88" contentwidth="248" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">桡骨膜</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="288" height="88" contentwidth="248" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">膝腱</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="285" height="88" contentwidth="245" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">眼腱</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="213" height="88" contentwidth="173" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">阵挛</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="218" height="168" contentwidth="178" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">左</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="324" height="173" contentwidth="284" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="286" height="173" contentwidth="246" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="288" height="173" contentwidth="248" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="288" height="173" contentwidth="248" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="285" height="173" contentwidth="245" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/++ +/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="213" height="168" contentwidth="173" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">有/无</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="218" height="168" contentwidth="178" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">右</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="324" height="173" contentwidth="284" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="286" height="173" contentwidth="246" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="288" height="173" contentwidth="248" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="288" height="173" contentwidth="248" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="1" border-width-left="1" width="285" height="173" contentwidth="245" contentheight="143" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">++++/+++/++/+/±/〇</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="213" height="168" contentwidth="173" contentheight="138" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">有/无</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">病理反射</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">    Babinski征:左侧：阴性/阳性；右侧：阴性/阳性；Chaddock征:左侧：阴性/阳性；右侧：阴性/阳性。</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">脑膜刺激征：颈抵抗阴性/阳性（颔下***横指）；Kernig征阴性/阳性 </span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">自主神经检查</span>
+      <eof />
+    </p>
+    <p>
+      <span mustclick="False" type="singleelement" name="单选" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0" text="++" fontsize="12" code="">汗腺分泌：IH常/增多/无汗；皮肤划痕试验：阴性/阳性（交感神经兴奋性增高副交感神经兴 奋性增高）；尿便障碍：无/有（排尿困难/尿潴留/尿失禁/便失禁）。</span>
+      <eof />
+    </p>
+    <p align="2">
+      <roelement mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">辅  助  检  查</roelement>
+      <eof />
+    </p>
+    <p align="0">
+      <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">    总结：（病史摘要及阳性体征）</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="2">
+        <column-width width="951" />
+        <column-width width="951" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="343" contentwidth="911" contentheight="313" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement mustclick="False" type="fixedtext" name="出院诊断" text="有毒物质接触史" level="" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">出院诊断</roelement>
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">    </span>
+            <eof />
+          </p>
+          <p align="0">
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">   </span>
+            <macro mustclick="False" type="macro" name="主治医师" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">
+            </macro>
+            <eof />
+          </p>
+          <p>
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">  </span>
+            <ftimeelement mustclick="False" type="formatdatetime" name="格式化日期时间" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体" code="" formatString="yyyy-MM-dd">2016-08-31</ftimeelement>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="951" height="343" contentwidth="911" contentheight="313" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <roelement mustclick="False" type="fixedtext" name="初步诊断" text="有毒物质接触史" level="" print="True" fontsize="12" showborder="False" fontname="宋体" fontbold="1">初步诊断</roelement>
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">    </span>
+            <eof />
+          </p>
+          <p align="0">
+            <span mustclick="False" type="fixedtext" name="辅助检查" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">      </span>
+            <macro mustclick="False" type="macro" name="医师签名" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">管理员</macro>
+            <eof />
+          </p>
+          <p align="0">
+            <span mustclick="False" type="macro" name="医师签名" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体">     </span>
+            <ftimeelement mustclick="False" type="formatdatetime" name="格式化日期时间" text="有毒物质接触史" level="一级" print="True" fontsize="12" showborder="False" fontname="宋体" code="" formatString="yyyy-MM-dd">2016-08-31</ftimeelement>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <eof />
+    </p>
+  </body>
+</document>

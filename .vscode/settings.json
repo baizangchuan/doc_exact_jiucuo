@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.defaultProfile.linux": "",
+    "terminal.integrated.env.windows": {
+            "JAVA_HOME": "D:\\java",
+            "PATH": "D:\\java\\bin;${env:PATH}",
+            "MAVEN_HOME":"D:\\apache-maven-3.9.8-bin\\apache-maven-3.9.8"
+    },
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.debug.settings.onBuildFailureProceed": true
+}

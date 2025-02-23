@@ -1,0 +1,225 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">康复治疗知情同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 23:36:55" level="0" />
+    <savelog name="" time="2022-11-25 19:11:45" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:33:03" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215083303" version="1.0" modifier="2" patientid="006766_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="1">
+        <column-width width="1902" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="258" contentwidth="1862" contentheight="228" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span type="fixedtext" name="临床诊断:" level="" print="True" mustclick="False" code="" fontbold="1">   </span>
+            <roelement type="fixedtext" name="临床诊断:" level="" print="True" mustclick="False" code="" fontbold="1">临床诊断:</roelement>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="multielement" name="多选" text="脑梗塞">
+              <item selected="false" code="" group="">脑出血</item>
+              <item selected="true" code="" group="">脑梗塞</item>
+              <item selected="false" code="" group="">弥漫性轴索损伤</item>
+              <item selected="false" code="" group="">脑出血术后</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="multielement" name="多选" text="多选">，</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">完全性</item>
+              <item selected="false" code="" group="">不完全性</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="multielement" name="多选" text="多选">脊髓损伤</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="multielement" name="多选" text="多选">   </span>
+            <roelement type="fixedtext" name="病情摘要:" level="" print="True" mustclick="False" code="" fontbold="1">病情摘要:</roelement>
+            <helement fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="主诉">主诉</helement>
+            <span fontname="宋体" fontsize="12">；查体：患侧上肢肌力</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">０</item>
+              <item selected="false" code="" group="">１</item>
+              <item selected="false" code="" group="">２</item>
+              <item selected="false" code="" group="">３</item>
+              <item selected="false" code="" group="">４</item>
+              <item selected="false" code="" group="">５</item>
+            </selement>
+            <span fontname="宋体" fontsize="12">级，肌张力</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">增高</item>
+              <item selected="false" code="" group="">减低</item>
+              <item selected="false" code="" group="">正常</item>
+            </selement>
+            <span fontname="宋体" fontsize="12">；患侧下肢肌力</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">０</item>
+              <item selected="false" code="" group="">１</item>
+              <item selected="false" code="" group="">２</item>
+              <item selected="false" code="" group="">３</item>
+              <item selected="false" code="" group="">４</item>
+              <item selected="false" code="" group="">５</item>
+            </selement>
+            <span fontname="宋体" fontsize="12">级，肌张力</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">增高</item>
+              <item selected="false" code="" group="">减低</item>
+              <item selected="false" code="" group="">正常</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">；患侧巴氏征</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">(＋）</item>
+              <item selected="false" code="" group="">（－）</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">；浅感觉</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">正常</item>
+              <item selected="false" code="" group="">减退</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">,深感觉</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">
+              <item selected="false" code="" group="">正常</item>
+              <item selected="false" code="" group="">减退</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">．</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="938" contentwidth="1862" contentheight="908" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    根据患者病情,需要进行</span>
+            <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="multielement" name="多选" text="多选">
+              <item selected="false" code="" group="">偏瘫肢体综合训练</item>
+              <item selected="false" code="" group="">运动疗法</item>
+              <item selected="false" code="" group="">运动疗法（全身肌肉训练）</item>
+              <item selected="false" code="" group="">运动疗法（各关节活动度训练）</item>
+              <item selected="false" code="" group="">运动疗法（步态平衡功能训练）</item>
+              <item selected="false" code="" group="">运动训练（器械训练）</item>
+            </selement>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">康复治疗.在患者住院期间、康复治疗中、治疗可能出现以下情况：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    1、骨质疏松所致的病理性骨折；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    2、长期卧床导致深静脉血栓形成引起肺栓塞、猝死以及体位低血压所引起的相应症状；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    3、心脑血管疾病引起的脑出血和栓塞、心绞痛、心肌梗塞、心脏骤停猝死以及心脑血管疾病复发；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    4、牵伸引起的肌腱、肌束损伤，患肢肿胀；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    5、可能出现原发疾病引起的癫痫、晕厥、患者体弱引起滑到摔伤；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    6、有内固定的患者，在康复治疗中内固定有自我松动脱落的可能性；</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    7、其他意想不到的意外。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="343" contentwidth="1862" contentheight="313" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    1、我们保证已将患者病情以及上述各种可能发生的情况准确、无误地告知患者（本人/近亲属/或其他代理人）；</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    2、我们保证恪守医德、尽职尽责、严格规范、谨慎操作，争取最好的治疗效果。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    医师：                                               年　　月　　日</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1902" height="513" contentwidth="1862" contentheight="483" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    １、经医师告知，我对上述情况已完全知晓并充分理解。我同意进行上述治疗。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">    2、我愿遵守医院的有关制度，积极配合医生的治疗，已达到最好的治疗效果。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">患者：          近亲属或其他代理人：（签字）</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">　　若由近亲属或其他代理人签字，还需就以下条款签字：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">　　我受患者　　委托，有权就该协议内容签署意见，我与患者本人是　　关系。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选">　　近亲属或其他代理人签字：                              年　　月　　日</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <eof />
+    </p>
+  </body>
+</document>

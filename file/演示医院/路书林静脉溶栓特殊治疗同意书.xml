@@ -1,0 +1,116 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">静脉溶栓特殊治疗同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">路书林</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">30岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">63</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006942</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2023-02-15 09:15:25" level="0" />
+    <savelog name="" time="2023-02-15 09:18:36" level="0" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215091836" version="1.0" modifier="1" patientid="006942_1" />
+  <body>
+    <p>
+      <span fontname="宋体" fontsize="12">病情介绍和治疗建议：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    患者目前临床诊断为：</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="初步诊断">字典</replace>
+      <span fontname="宋体" fontsize="12" type="replace" name="初步诊断">无静脉溶栓禁忌症</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    拟给予静脉溶栓治疗</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    溶栓治疗是急性心肌梗死再灌注治疗的重要方法之一，溶栓治疗受益机制包括挽救心肌和对梗死后心肌重塑的有利作用。但溶栓治疗的同时可能出现再灌注心律失常、出血等并发症，甚至更为严重的并发症。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    根据患者病情需实施该项检查治疗，但此操作存在一定的风险和可能出现并发症及其他无法预料的意外情况，为此特别郑重向患者或委托代理人交待操作过程中或操作后可能发生的意外情况及并发症，包括但不限于：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">1、出血：皮肤、消化道、呼吸道、颅内等部位的出血，导致贫血、休克、昏迷等，甚至危及生命。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">2、再灌注心律失常：频发室早、多源室早、短阵室速、持续室速、室颤、高度房室传导阻滞等导致心跳骤停，甚至危及生命。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">3、药物过敏反应，严重可导致过敏性休克，危及生命。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">4、治疗无效。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">5、其它难以预料的意外情况。</span>
+      <eof />
+    </p>
+    <p>
+      <br />
+      <span fontname="宋体" fontsize="12">    （特别提示：该手写的内容，是针对每一个不同患者所做的特别告知，对于上述并发症的发生，医生将会按照医学治疗原则进行常规预防，但可能难以完全避免，若发生上述风险及意外情况，医生会采取积极的救治措施。）</span>
+      <br />
+      <span fontsize="12" fontbold="1">患者知情选择：</span>
+      <br />
+      <span fontsize="12">       我的医生已经告知我将要进行的操作方式、此次操作及可能发生的并发症和风险，可能存在的其他治疗方法并且解答了我关于此次操作的相关问题。</span>
+      <br />
+      <span fontsize="12">       我同意在操作中医生可以根据我的病情对预定的治疗方式做出调整。</span>
+      <br />
+      <span fontsize="12">       我理解我的操作治疗需要多位医生共同进行。</span>
+      <br />
+      <span fontsize="12">       我并未得到操作治疗百分之百成功的许诺。</span>
+      <br />
+      <span fontsize="12">     医生将各种治疗方案及各种风险详细向我进行了告知，我已经充分了解病情及医疗风险，经过慎重考虑，我志愿选择此项手术，并有充分的思想准备承担可能面临的风险及由此增加的医疗费用，特此签字为证。</span>
+      <br />
+      <span fontsize="12">     患者或授权（法定）代理人意见：</span>
+      <br />
+      <span fontsize="12">      1、理解上述内容及风险；                           </span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="12">      2、同意操作治疗。</span>
+      <br />
+      <span fontsize="12">      患者或授权（法定）代理人签字：                  代理人与患者关系：</span>
+      <br />
+      <span fontsize="12">      授权（法定）代理人通讯地址：                    联系电话：</span>
+      <br />
+      <span fontsize="12">      授权（法定）代理人工作单位：                    年   月   日   时   分</span>
+      <br />
+      <span fontsize="12" fontbold="1">医生陈述：</span>
+      <br />
+      <span fontsize="12">我已经告知患者或授权代理人将要进行的操作方式，此次操作及可能发生的并发症和风险、可能存在的其他治疗方法并且解答了患者关于此次操作的相关问题。</span>
+      <br />
+      <span fontsize="12"> 告知医生签名：                                       年   月   日   时   分</span>
+      <br />
+      <span fontsize="12"> </span>
+      <eof />
+    </p>
+  </body>
+</document>

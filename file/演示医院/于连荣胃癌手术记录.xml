@@ -1,0 +1,181 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">胃癌手术记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2023-02-15 08:52:33" level="0" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215085233" version="1.0" modifier="0" patientid="006826_1" />
+  <body>
+    <p>
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="手术日期" level="" print="True">手术日期</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">格式化日期时间</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术前诊断" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">术前诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <lookupeditor fontname="宋体" fontsize="12" mustclick="False" code="" type="lookupeditor" name="字典" formatString="yyyy年MM月dd日HH时mm分" codevalue="" wordbook="ICD-10" multi="True">字典</lookupeditor>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术后诊断" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">术后诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <lookupeditor fontname="宋体" fontsize="12" mustclick="False" code="" type="lookupeditor" name="字典" formatString="yyyy年MM月dd日HH时mm分" codevalue="" wordbook="ICD-10" multi="True">字典</lookupeditor>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术名称" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手术名称</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：胃癌</span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">根治术</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手 术 者" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手 术 者</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：                                            </span>
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="助    手" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">助    手</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="麻醉方法" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">麻醉方法</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="全麻插管">
+        <item selected="false" code="" group="">局部麻醉</item>
+        <item selected="false" code="" group="">全身麻醉</item>
+        <item selected="false" code="" group="">气管插管</item>
+        <item selected="true" code="" group="">全麻插管</item>
+        <item selected="false" code="" group="">神经阻滞</item>
+      </selement>
+      <span fontname="宋体" fontsize="12">麻醉</span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">                                </span>
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="麻醉医师" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">麻醉医师</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术经过（术中出现的情况及处理）" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手术经过（术中出现的情况及处理）</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    1.采用上腹部正中切口。剑突上2-3cm开始，沿正中线下行，绕脐左侧止于脐下2-3cm处。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">2.常规探查，由远离癌肿处开始，最后检查癌肿。根据探查结果决定术式及淋巴结清扫范围。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">3.切除范围，淋巴结清扫范围。阻断胃周循环，于胃左血管降支分出处，胃右血管、胃网膜左右血管近跟部分别予以缝合结扎。癌已穿透浆膜或怀疑穿透者，用纱布缝合覆盖，减少癌细胞在腹腔内转移的机会。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">4.于大网膜附着横结肠处相对无血管区，从横结肠中央开始，先向左侧切断至脾下极，再向右侧切断至结肠肝区。提取大网膜与胃结肠韧带，沿横结肠系膜前叶。切除结肠中动脉周围淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">5.再沿结肠中动脉向上分离，达胰腺下缘背侧，将肠系膜上动、静脉周围淋巴结清楚。切开分离胰头处腹膜，清除胰头前淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">6.于胰头幽门下分离显露胃网膜右动静脉，于其起始部分切断、结扎。清除幽门下淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">7.将十二指肠降部拉向左侧，沿肝十二指肠韧带下开始至十二指肠降部下端，将十二指肠外侧腹部切开，分离其下方的疏松结缔组织，再向下切断其肝结肠韧带，可将胰头与十二指肠游离，提起翻转，清除胰十二指肠动脉周围淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">8.将胃十二指肠向下牵引，显露肝十二指肠韧带前面。在肝下近肝门处剪开肝蒂前面被摸，露出肝固有动脉，向下剥离清除。自根部结扎胃右动脉，清除幽门上淋巴结、肝固有动脉与胆总管之间韧带内淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">9.沿肝下小网膜根部相对无血管区，切除小网膜向上达食管右侧。清除十二指肠周围组织游离十二指肠上部。在预定切断线上下方各置一把直钳，紧贴远钳切断十二指肠。十二指肠残端常规闭锁缝合或用纱布包裹备BillothΙ式胃十二指肠吻合。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">10.将切断之胃向左上方翻转提起，剪开肝总动脉之腹膜，从外侧向中枢游离肝总动脉。清除肝总动脉淋巴结时，找到胃左静脉起始部切断、结扎。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">11.自肝总动脉根部继续向上，沿腹腔动脉右侧、上方切开腹膜，切除腹腔动脉淋巴结。从胃左动脉左侧向上分离，并暴露胃左动脉根部，予以结扎切断。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">12.提起胃，显露胰体、尾部。在胰腺上缘脂肪组织间隙内走行着脾动脉，分离至脾动脉中侧面发出胃后动脉处。清除其周围淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">13.自食管腹段右侧开始，分别剪开贲门小弯部小网膜的前后叶，切断右侧迷走神经。将贲门右淋巴结及周围脂肪组织和下方的小网膜、胃胰韧带淋巴结清除。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">14.将胃向右下方牵引，于脾下极水平切断胃网膜左动静脉，清除其周围淋巴结。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">15.胃切断线应根据胃癌病期与类型决定一般胃切断线。小弯侧距贲门右缘为2-3cm，大弯侧平脾下极。胃切除、小弯侧闭锁方法同溃疡性胃大部切除术。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">16.胃肠道重建术：①BillrothΙ式吻合法同前。②Billroth2式吻合（moynihan式）同前③Roux-y型吻合术：空肠远端与胃残端端吻合，近端与Treitz韧带下10-15cm之空肠行端侧吻合。两吻合口间距应为40cm以上。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">                                                        </span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">                                                               </span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分"> </span>
+      <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名" formatString="yyyy年MM月dd日HH时mm分">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

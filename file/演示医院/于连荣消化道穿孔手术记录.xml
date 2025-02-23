@@ -1,0 +1,125 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">消化道穿孔手术记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2023-02-15 08:53:15" level="0" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215085315" version="1.0" modifier="0" patientid="006826_1" />
+  <body>
+    <p>
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="手术日期" level="" print="True">手术日期</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">格式化日期时间</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术前诊断" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">术前诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <lookupeditor fontname="宋体" fontsize="12" mustclick="False" code="" type="lookupeditor" name="字典" formatString="yyyy年MM月dd日HH时mm分" codevalue="" wordbook="ICD-10" multi="True">字典</lookupeditor>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="术后诊断" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">术后诊断</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <lookupeditor fontname="宋体" fontsize="12" mustclick="False" code="" type="lookupeditor" name="字典" formatString="yyyy年MM月dd日HH时mm分" codevalue="" wordbook="ICD-10" multi="True">字典</lookupeditor>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术名称" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手术名称</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：剖腹探查，胃大部分切除，胃空肠吻合术</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手 术 者" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手 术 者</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：                                        </span>
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="助    手" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">助    手</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="麻醉方法" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">麻醉方法</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：全身</span>
+      <span fontname="宋体" fontsize="12">麻醉</span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">                                </span>
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="麻醉医师" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">麻醉医师</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="手术经过（术中出现的情况及处理）" formatString="yyyy年MM月dd日HH时mm分" level="" print="True">手术经过（术中出现的情况及处理）</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    1.将患者接入手术室，全麻插管成功后，取仰卧位，常规消毒术区皮肤，铺无菌巾单。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    2.取上腹部正中切口，逐层切开皮肤，皮下，腹白线，腹膜，见腹腔大量脓性渗液，将其吸净，探查十二指肠球部前壁见一直径约1cm穿孔，食物残渣自穿孔处溢出，覆以大量脓性渗出物，吸净周围脓苔及渗液，于穿孔两侧全层缝合2针，将其关闭，探查肝胆脾无病理性改变，胃、空肠、回肠、结肠无病理性改变，术中决定行胃大部分切除，胃空肠吻合术。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    3.预定于幽门下十二指肠求部前壁穿孔处以远切断十二指肠，预定胃大部切除于胃左动脉第一二胃壁支之间切断胃小弯，胃网膜左动脉第一胃壁支于胃短动脉间在胃大弯弯侧切断胃壁，自胃网膜血管弓下缘中央偏左侧无血管区分别向左右两侧分离胃结肠韧带，逐一钳夹切断结扎，向左超过胃网膜左动脉第二末支，向右游离至幽门窦部附近将胃向前上方翻起，分开胃后壁和横结肠系膜间的粘连，剪开此处腹膜返折显露十二指肠后壁，靠近幽门下分离，切断和结扎胃网膜右动静脉，分离十二指肠后壁，结扎切断十二指肠后壁与胰头间小血管，游离十二指肠，至预定切除线两厘米远侧，于胃上缘小网膜无血管处剪一孔，并扩大向右游离结扎肝胃韧带，贴近幽门上方，将肝十二指肠韧带内的胃右动脉切断结扎，紧贴十二指肠上缘，分离十二指肠近端，向左游离切断结扎肝胃韧带，靠近胃壁，游离至胃左动脉第二末支，于十二指肠预定切断处至闭合器近端夹肠钳，闭合器夹住前后壁击发完成缝合，沿闭合器表面切断十二指肠去除闭合器，于十二指肠上下角各做一浆肌层半荷包缝合，包埋两角，两角间浆肌层加强缝合。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    4.术中决定十二指肠近端对大弯侧远端对小弯侧结肠前胃空肠吻合，上提距十二指肠悬韧带二十厘米空肠于与肠系膜对侧缘切去全层肠壁直径约1cm，沿切口边缘荷包缝合，将抵针座经空肠切口放入肠腔收紧荷包线结扎空肠，将吻合器经十二指肠断端置入胃腔于胃后壁预定切断处近端，戳一小孔，经此孔将抵针座与吻合器针座靠拢，击发完成吻合，取出吻合器，将胃空肠吻合口浆肌层加强缝合一周，于胃壁预定切断处近端至闭合器远端夹胃钳，击发闭合器完成缝合，沿闭合器表面，切断胃壁，去除标本，去除闭合器，于胃壁上下角各做一浆肌层半荷包缝合，包埋两角，包埋两角，两角间浆肌层加强缝合。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    5.温盐水反复冲洗腹腔，于十二指肠残端及盆腔，各置引流管一根，戳空引出体外缝扎固定，仔细止血清点器械无误逐层缝合切口至皮肤，无菌敷料覆盖切口，伤口贴固定，腹带加压固定，引流管接引流袋术毕。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">    手术过程顺利，术中出血——ml麻醉完善，术毕安返病房。标本示家属。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">                                                         </span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="prompttext" name="时长">                                                          </span>
+      <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名" formatString="yyyy年MM月dd日HH时mm分">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

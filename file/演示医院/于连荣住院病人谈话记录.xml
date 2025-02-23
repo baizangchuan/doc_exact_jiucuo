@@ -1,0 +1,86 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">住院病人谈话记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-17 13:45:00" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:50:09" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215085009" version="1.0" modifier="1" patientid="006826_1" />
+  <body>
+    <p>
+      <roelement type="fixedtext" name="谈话时间：" level="" print="True">谈话时间：</roelement>
+      <ftimeelement mustclick="False" code="" type="formatdatetime" name="双击获取时间" formatString="yyyy年MM月dd日HH时mm分">双击获取时间</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">患者或代理人意见：1、您对谈话是否理解              2、您是否同意</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">                             患者或代理人签字：           年    月    日</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">代理人与患者关系：                            联系电话：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">代理人通讯地址：                                            邮编：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">                             谈话医生签字：               年    月    日</span>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">谈话内容：</span>
+      <eof />
+    </p>
+  </body>
+</document>

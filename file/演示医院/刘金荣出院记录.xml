@@ -1,0 +1,191 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">出院记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">（一式两份，一份给病人或者监护人、一份入病案室）                    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006458</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-08-09 12:06:25" level="0" />
+    <savelog name="王辉" time="2022-11-25 18:31:30" level="2" />
+    <savelog name="王辉" time="2022-12-13 13:30:06" level="2" />
+    <savelog name="王辉" time="2023-02-15 08:46:23" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" headlinespace="18" headheight="306" modifytime="20230215084623" version="1.0" modifier="3" showheader="True" showfooter="True" showheaderline="True" showfooterline="True" pagebackcolor="Color [White]" title="" id="" patientid="006458_1" />
+  <body>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">姓名：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="姓名">刘金荣</macro>
+      <span fontname="宋体" fontsize="12">   </span>
+      <span fontname="宋体" fontsize="12" fontbold="1">性别</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="12">   </span>
+      <span fontname="宋体" fontsize="12" fontbold="1">年龄</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="年龄">87岁</macro>
+      <span fontname="宋体" fontsize="12">   </span>
+      <span fontname="宋体" fontsize="12" fontbold="1">职业</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="职业">农民</macro>
+      <span fontname="宋体" fontsize="12">   </span>
+      <span fontname="宋体" fontsize="12" fontbold="1">科别</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="12"> </span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" fontbold="1">入院时间</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="入科时间">2017年01月31日 15:22</macro>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12" fontbold="1">出院时间</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="双击获取时间" formatString="yyyy年MM月dd日 HH:mm">双击获取时间</ftimeelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="双击获取时间" formatString="yyyy年MM月dd日 HH:mm">                                    </span>
+      <text fontname="宋体" fontsize="12" mustclick="False" code="" type="text" name="住院天数:" formatString="yyyy年MM月dd日 HH:mm" fontbold="1">住院天数:</text>
+      <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="住院天数" formatString="yyyy年MM月dd日 HH:mm">2206</macro>
+      <text fontname="宋体" fontsize="12" mustclick="False" code="" type="text" name="天" formatString="yyyy年MM月dd日 HH:mm">天</text>
+      <eof />
+    </p>
+    <p>
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <span fontname="宋体" fontsize="12">	</span>
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="入院情况" level="" print="True">入院情况</roelement>
+      <span fontname="宋体" fontsize="12">：患者以“</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="主诉">主诉</replace>
+      <span fontname="宋体" fontsize="12">”入院，入院症状：</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="入院症见">入院症状</replace>
+      <span fontname="宋体" fontsize="12">查体：</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="体格检查">体格检查</replace>
+      <span fontname="宋体" fontsize="12"> 辅助检查:</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="辅助检查">辅助检查</replace>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" type="replace" name="辅助检查">	</span>
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="入院诊断" fontbold="1" level="" print="True">入院诊断</roelement>
+      <span fontname="宋体" fontsize="12" type="replace" name="辅助检查">：</span>
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" type="replace" name="辅助检查">	</span>
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="诊疗经过" fontbold="1" level="" print="True">诊疗经过</roelement>
+      <span fontname="宋体" fontsize="12">：患者以“ 1.重症肌无力，眼肌型 2.慢性乙型病毒性肝炎”入院，入院症状：入院症状查体： 体温 36.3℃ 脉搏79 次/分 呼吸 20次/分 血压133/73mmHg，心肺腹未见明显异常。神经系统查体：双眼眼裂变小，左眼明显，疲劳试验阳性。 辅助检查: 心电图：窦性心律</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">	</span>
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院诊断" level="" print="True">出院诊断</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">	</span>
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院情况" level="" print="True">出院情况</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof deleter="2" />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">	</span>
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院医嘱" level="" print="True">出院医嘱</roelement>
+      <span fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院医嘱" level="" print="True">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院医嘱" level="" print="True">                </span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="出院时间" formatString="yyyy年MM月dd日HH时mm分">主治医师：</span>
+      <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名" formatString="yyyy年MM月dd日HH时mm分">梁志贞</macro>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="出院时间" formatString="yyyy年MM月dd日HH时mm分">                        </span>
+      <span fontname="宋体" fontsize="12">住院</span>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="出院时间" formatString="yyyy年MM月dd日HH时mm分">医师：</span>
+      <macro fontname="宋体" fontsize="12" mustclick="False" code="" type="macro" name="医师签名" formatString="yyyy年MM月dd日HH时mm分">梁志贞</macro>
+      <eof />
+    </p>
+  </body>
+</document>
