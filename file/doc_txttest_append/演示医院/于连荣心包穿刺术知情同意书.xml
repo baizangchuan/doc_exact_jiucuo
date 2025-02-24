@@ -1,0 +1,178 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">心包穿刺术知情同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-17 13:44:22" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:49:58" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215084958" version="1.0" modifier="1" patientid="006826_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="1">
+        <column-width width="1902" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="1119" contentwidth="1862" contentheight="1089" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    疾病介绍和治疗建议：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">     患者目前临床诊断为                                                    ，需要在             麻醉下进行                                                                   心包穿刺术。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    心包积液是一种较常见的临床表现，尤其是在超声心动图成为心血管疾病的常规检查方式之后，心包积液在病人中的检出率明显上升，可高达8.4%，大部分心包积液由于量少而不出现临床征象。少数病人则由于大量积液成为突出和临床表现。当心包积液持续数月以上时便构成慢性心包积液。导致慢性心包积液的病因有多种，大多与可累及心包的疾病有关。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    心包积液可有多种原因造成：（一）感染性；（二）全身性疾病；（三）肿瘤；（四）药物诱发；（五）外伤；（六）病因不明；（七）自身免疫性心包炎等。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    心包穿刺的目的在于：抽出积液，缓解症状；对积液进行各种理化检查，明确病因，指导进一步治疗。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    必要时，可能会心包留置导管以便间断抽液或注射药物治疗。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="1534" contentwidth="1862" contentheight="1504" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    根据患者病情需实施该项检查治疗，，但此操作存在一定的风险和可能出现手术并发症及其他无法预料的意外情况，为此特别郑重向患者或者委托代理人交待操作或操作可能发生的意外情况及并发症，包括但不限于：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    1、麻醉意外。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    2、围手术期各种感染；</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    3、穿刺伤口局部血肿、大出血、血管破裂，心包填塞，假性动脉瘤，动静脉瘘等，严重者可有出血性休克，生命危险；甚至需手术治疗。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    4、药物所致过敏反应及毒性反应：术中所用药物可能造成皮肤过敏、呼吸困难、过敏性休克、溶血反应等；重者可能有生命危险。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    5、导丝、导管打结、折断不能取出或器械原因造成的意外情况，可能手术治疗。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    6、由于导管刺激可能产生严重心律失常，室速、室颤，危及生命，需要电除颤等抢救措施。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    7、解剖结构异常及其他原因造成的手术不成功，可能需中转手术或再次手术治疗。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    8、其它难以预料的意外情况。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    针对该患者可能出现的特殊风险或主要高危因素：</span>
+            <eof />
+          </p>
+          <p>
+            <br />
+            <span fontsize="10.5">    </span>
+            <span fontsize="10.5" fontbold="1">特别提示：</span>
+            <span fontsize="10.5">该手写的内容，是针对每一个不同患者所做的特别告知，对于上述并发症的发生，医生将会按照医学治疗原则进行常规预防，但可能难以完全避免，若发生上述风险及意外情况，医生会采取积极的救治措施。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="969" contentwidth="1862" contentheight="939" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5">患者知情选择</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我的医生已经告知我将要进行的手术方式、此次手术及术后可能发生的并发症和风险、可能存在的其它治疗方法并且解答了我关于此次手术的相关问题。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我同意在手术中医生可以根据我的病情对预定的手术方式做出调整。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我并未得到手术百分之百成功的许诺。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我授权医师对手术切除的病变器官、组织或标本进行处置，包括病理学检查、细胞学检查和医疗废物处理等。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我理解如果我患有高血压、心脏病、糖尿病、肝肾功能不全、静脉血栓等疾病或者有吸烟史，以上这些风险可能会加大，或者在术中或术后出现相关的病情加重或心脑血管意外，甚至死亡。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我理解我的手术需要多位医生共同进行。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    ★ 我理解术后如果我不遵医嘱，可能影响手术效果。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="734" contentwidth="1862" contentheight="704" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    医生将各种治疗方案及各种风险详细向我进行了告知，我已经充分了解病情及医疗风险，经过慎重考虑，我志愿选择此项手术，并有充分的思想准备承担可能面临的风险及由此增加的医疗费用。特此签字为证：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    患者或授权（法定）代理人意见：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    1、理解上述内容及风险                             2、同意手术治疗</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    患者或授权（法定）代理人签字：                    代理人与患者关系：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    授权（法定）代理人通信地址：                      联系电话：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    授权（法定）代理人工作单位：                      年         月         日</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1902" height="408" contentwidth="1862" contentheight="378" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">医生陈述：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    我已经告知患者或授权（法定）代理人将要进行的手术方式、此处手术及术后可能发生的并发症和风险、可能存在的其他治疗方法并解答了患者关于此次手术的相关问题。</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    告知医师签名：                                     年        月          日</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p>
+      <eof />
+    </p>
+  </body>
+</document>

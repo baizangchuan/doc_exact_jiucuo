@@ -1,0 +1,99 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">脑病出院指导</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 23:38:00" level="0" />
+    <savelog name="" time="2022-11-25 19:14:41" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:33:50" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" modifytime="20230215083350" version="1.0" modifier="2" title="" id="" patientid="006766_1" />
+  <body>
+    <p>
+      <roelement type="fixedtext" name="入院时间" level="" print="True">入院时间</roelement>
+      <span>：</span>
+      <macro type="macro" name="入院时间">2017年02月05日 11:26</macro>
+      <span>              </span>
+      <roelement type="fixedtext" name="出院时间" level="" print="True">出院时间</roelement>
+      <span>：</span>
+      <ftimeelement mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy年MM月dd日HH时mm分">格式化日期时间</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement type="fixedtext" name="出院诊断" level="" print="True">出院诊断</roelement>
+      <span>：</span>
+      <lookupeditor type="lookupeditor" name="字典" codevalue="" wordbook="" multi="False">字典</lookupeditor>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement type="fixedtext" name="检验、检查结果回报" level="" print="True">检验、检查结果回报</roelement>
+      <span>：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement type="fixedtext" name="出院医嘱" level="" print="True">出院医嘱</roelement>
+      <span>：</span>
+      <span fontname="宋体" fontsize="12" type="fixedtext" name="出院医嘱" level="" print="True">出院后坚持口服药物如下：</span>
+      <selement fontname="宋体" fontsize="12" type="multielement" name="口服药物" level="" print="True" mustclick="False" code="" text="阿司匹林肠溶片　１００毫克　１／日　口服、尼莫地平片　　３０毫克　３／日　　　口服">
+        <item selected="true" code="" group="">阿司匹林肠溶片　１００毫克　１／日　口服</item>
+        <item selected="true" code="" group="">尼莫地平片　　３０毫克　３／日　　　口服</item>
+        <item selected="false" code="" group="">辛伐他丁片　　　１０毫克　１／日　　口服</item>
+      </selement>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement type="fixedtext" name="出院指导" level="" print="True">出院指导</roelement>
+      <span>：</span>
+      <span fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="出院医嘱" level="" print="True">：</span>
+      <span fontname="宋体" fontsize="12" type="fixedtext" name="出院医嘱" level="" print="True">1.注意休息、避免劳累、调畅情志、规避风寒。2.低盐低脂饮食，饮食宜清淡易消化，少吃高脂食品，多吃新鲜蔬菜水果。少食多餐，勿过饱，以免增加心脏负担。保持大便通畅，保持居室空气新鲜，冬季注意保暖，适当活动患肢进行功能锻炼。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement type="fixedtext" name="注意事项" level="" print="True">注意事项</roelement>
+      <span>：复查：</span>
+      <eof />
+    </p>
+  </body>
+</document>

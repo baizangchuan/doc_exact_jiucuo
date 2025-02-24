@@ -1,0 +1,174 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">转入</span>
+      <span fontname="宋体" fontsize="22" fontbold="1">记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 23:50:19" level="0" />
+    <savelog name="" time="2022-11-25 19:21:09" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:37:36" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" modifytime="20230215083736" version="1.0" modifier="2" title="" id="" patientid="006766_1" />
+  <body>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="主诉" formatString="yyyy年MM月dd日" fontbold="1" level="" print="True">    入院时间：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="主诉" formatString="yyyy年MM月dd日" fontbold="1" level="" print="True">    转入时间：</span>
+      <eof />
+    </p>
+    <p>
+      <roelement fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="主诉" formatString="yyyy年MM月dd日" fontbold="1" level="" print="True">主诉</roelement>
+      <span fontname="宋体" fontsize="12" mustclick="False" code="" type="fixedtext" name="主诉" formatString="yyyy年MM月dd日" level="" print="True">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="入院情况" level="" print="True">入院情况</roelement>
+      <span fontname="宋体" fontsize="12">：查体：T：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="体温" maxvalue="9999" minvalue="0" length="4" decimalDigits="1" value="36.5">36.5</fnumelement>
+      <text fontname="宋体" fontsize="12" type="text" name="℃">℃</text>
+      <span fontname="宋体" fontsize="12">； P：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="脉搏" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="80">80</fnumelement>
+      <span fontname="宋体" fontsize="12">次/分； R：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="呼吸" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="30">30</fnumelement>
+      <span fontname="宋体" fontsize="12">次/分； Bp：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="最高" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="120">120</fnumelement>
+      <span fontname="宋体" fontsize="12">/</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="最低" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="80">80</fnumelement>
+      <span fontname="宋体" fontsize="12">分；</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="入院诊断" level="" print="True">入院诊断</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="诊疗经过" showborder="False" fontbold="1" level="" print="True">诊疗经过</roelement>
+      <span fontname="宋体" fontsize="12" type="fixedtext" name="诊疗经过" showborder="False" level="" print="True">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" type="fixedtext" name="目前情况" showborder="False" fontbold="1" level="" print="True">目前情况</roelement>
+      <span fontname="宋体" fontsize="12">：查体：T：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="体温" maxvalue="9999" minvalue="0" length="4" decimalDigits="1" value="36.5">36.5</fnumelement>
+      <text fontname="宋体" fontsize="12" type="text" name="℃">℃</text>
+      <span fontname="宋体" fontsize="12">； P：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="脉搏" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="80">80</fnumelement>
+      <span fontname="宋体" fontsize="12">次/分； R：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="呼吸" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="30">30</fnumelement>
+      <span fontname="宋体" fontsize="12">次/分； Bp：</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="最高" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="120">120</fnumelement>
+      <span fontname="宋体" fontsize="12">/</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="最低" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="80">80</fnumelement>
+      <span fontname="宋体" fontsize="12">分；</span>
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="目前诊断" level="" print="True">目前诊断</roelement>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <roelement fontname="宋体" fontsize="12" fontbold="1" type="fixedtext" name="转入诊疗计划" level="" print="True">转入诊疗计划</roelement>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="3">
+        <column-width width="634" />
+        <column-width width="454" />
+        <column-width width="814" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="454" height="88" contentwidth="414" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="814" height="88" contentwidth="774" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">住院医师签字：</span>
+            <macro fontname="宋体" fontsize="12" type="macro" name="医师签名">王辉</macro>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="5">
+        <column-width width="380" />
+        <column-width width="380" />
+        <column-width width="380" />
+        <column-width width="380" />
+        <column-width width="382" />
+      </table-column>
+    </table>
+  </body>
+</document>

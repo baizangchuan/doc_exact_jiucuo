@@ -1,0 +1,162 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">冠脉造影，支架植入知情同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-25 18:46:00" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:17:08" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215081708" version="1.0" modifier="1" patientid="006940_1" />
+  <body>
+    <p>
+      <span fontname="宋体" fontsize="12">病情介绍和治疗建议？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    患者目前初步诊断：</span>
+      <replace fontname="宋体" fontsize="12" type="replace" name="初步诊断">字典</replace>
+      <span fontname="宋体" fontsize="12">。需要在麻醉下进行？？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">口冠状动脉造影               口左心造影（左室、左房）     口血管内超声？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">口冠状动脉介入性治疗（PCI） 口右心造影（右房、右室）    口冠状动脉内斑块旋磨术？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">口瓣膜成形术                 口周围血管介入性治疗术？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">□周围血管造影（升主动脉、腹主动脉、支气管动脉、颈动脉、肺静脉、腔静脉、肾动脉）？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">□临时性起搏器安装术         口先心病介入性治疗           口主动脉球囊反搏？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">口右心导管检查               口肾动脉介入治疗             口颈动脉介入治疗？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">口其他（含直流电复律、除颤）：                  手术。？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    冠状动脉造影是将特制的、有一定韧度且不透X线的导管，经周围动脉送至冠状动脉开口，推注造影剂，使心脏血管显影。介入治疗是在冠状动脉造影基础上，对需要干预的血管进行球囊扩张、支架置入，以缓解严重狭窄或完全闭塞病变，改善心绞痛症状或预后。？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    其他心导管检查，包括左、右心导管检查术，可以通过导管到达指定部位，测定心血管各部分的压力及血氧含量，计算心排血量、分流量及血流阻力，分析压力曲线的波形和数值，了解解剖结构变化，以帮助诊断和鉴别诊断，为治疗提供依据，并判断治疗效果。？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    根据患者病情需实施该项检查治疗，但此操作存在一定的风险和可能出现并发症及其他无法预料的意外情况，为此特别郑重向患者或委托代理人交待操作中或操作后可能发生的意外情况及并发症，包括但不限于：？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     1、麻醉意外；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    2、麻醉及造影剂并发症；造影剂过敏者轻度皮疹、恶心，严重者可致过敏性休克，危及生命；造影剂引起肾损害（造影剂肾病荏至肾功能衰竭需要长期血透治疗）；？   3、感染（包括局部及全身）；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     4、冠脉痉挛、穿孔、夹层、血栓、气栓引起的急性心肌缺血或心肌梗死甚至猝死；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     5、术中、术后可能出血及血肿形成，主动脉夹层、动静脉瘘、假性动脉瘤、腹膜后血肿，大出血需输血治疗，必要时需外科手术等；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     6、急性心衰、休克；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     7、急性、亚急性、晚期支架内血栓；血栓支架晚期贴壁不良，支架断裂，靶血管再狭窄等；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     8、心肌穿孔、血管穿孔、血管破裂及心包填塞；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     9、严重心律失常（有室速、室颤、心室停搏、III度房室传导阻滞、需要安装永久性起搏器及紧急电除颤等；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     10、导管断裂、打结；介入器械的断裂需外科取出；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     11、导管推送过程中可引起相关动脉痉挛损伤、闭塞甚至无脉症（经股动脉、桡动脉通路）；导管推送过程中动脉粥样硬化斑块引起全身动脉栓塞（包括脑栓塞、蓝趾综合征及肠系膜动脉栓塞等）；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     12、术中损伤神经、临近器官及相应的血管；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     13、下肢静脉血栓、肺栓塞；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     14、桡动脉径路介入操作并发症：桡动脉闭塞、周围神经损伤、骨筋膜室综合征、气胸、血胸、肺栓塞等；？</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     15、手术后封堵器伤口渗血、血肿、封堵部位残余瘘；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     16、因病情需要行主动脉球囊反搏治疗；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     17、手术失败，效果不好；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     18、因病情需要紧急外科手术，或急诊外科搭桥手术；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    19、有些患者，术中及术后发生全身及心脑血管意外，可能危及生命，甚至导致死亡；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     20、抗栓药物引起严重的内脏出血，包括脑出血、消化道出血等；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     21、其他难以预料的意外情况（如X线机器或相关仪器故障、特殊介入器械引起的并发症）；</span>
+      <br />
+      <span fontname="宋体" fontsize="12">针对该患者可能出现的特殊风险或主要高危因素；</span>
+      <eof />
+    </p>
+    <p>
+      <br />
+      <span fontname="宋体" fontsize="12">    </span>
+      <span fontname="宋体" fontsize="12" fontbold="1"> 特别提示</span>
+      <span fontname="宋体" fontsize="12">：该手写内容，是针对每一个不同患者所做的特别告知，对于上述并发症的发生，医生将会按照医学治疗原则进行常规预防，但可能难以完全避免，若发生上述风险及意外情况，医生会采取积极地救治措施。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     患者知情选择</span>
+      <br />
+      <span fontname="宋体" fontsize="12">       我的医生已经告知我将要进行的操作方式、此次操作及可能发生的并发症和风险，可能存在的其他治疗方法并且解答了我关于此次操作的相关问题。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">       我同意在操作中医生可以根据我的病情对预定的治疗方式做出调整。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">       我理解我的操作治疗需要多位医生共同进行。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">       我并未得到操作治疗百分之百成功的许诺。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     医生将各种治疗方案及各种风险详细向我进行了告知，我已经充分了解病情及医疗风险，经过慎重考虑，我志愿选择此项手术，并有充分的思想准备承担可能面临的风险及由此增加的医疗费用。特此签字为证：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">     患者或授权（法定）代理人意见：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">      1、理解上述内容及风险                           2、同意操作治疗</span>
+      <br />
+      <span fontname="宋体" fontsize="12">      患者或授权（法定）代理人签字：                  代理人与患者关系</span>
+      <br />
+      <span fontname="宋体" fontsize="12">      授权（法定）代理人通讯地址：                    联系电话：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">      授权（法定）代理人工作单位：                     年   月   日   时   分</span>
+      <br />
+      <span fontname="宋体" fontsize="12">医生陈述：</span>
+      <br />
+      <span fontname="宋体" fontsize="12">我已经告知患者或授权代理人将要进行的操作方式，此次操作及可能发生的并发症和风险、可能存在的其他治疗方法并且解答了患者关于此次操作的相关问题。</span>
+      <br />
+      <span fontname="宋体" fontsize="12"> 告知医生签名：                                        年   月   日   时   分</span>
+      <br />
+      <span fontname="宋体" fontsize="12"> 术者签名：                                            年   月   日   时   分</span>
+      <br />
+      <span fontname="宋体" fontsize="12">                                   患者或授权（法定）代理人签字：</span>
+      <eof />
+    </p>
+  </body>
+</document>

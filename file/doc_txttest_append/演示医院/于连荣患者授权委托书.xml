@@ -1,0 +1,184 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">患者授权委托书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-08 15:56:55" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:48:45" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215084845" version="1.0" modifier="1" patientid="006826_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="1">
+        <column-width width="1902" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1902" height="2672" contentwidth="1862" contentheight="2642" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">    </span>
+            <span fontname="宋体" fontsize="10.5">本人在住院期间，有关病情的告知以及在诊断治疗过程中需要签署的一切知情同意书，本人郑重委托由           作为我的代理人，代为行使住院期间的知情同意权利，并履行相应的签字手续，全权代表本人签字，被委托人的签字视同本人的签字；当本人委托超过1人作为我的代理人时，其中任何一人签字均视同本人的签字。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人1 姓名：         性别：     年龄：         联系电话：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    与患者关系：&#xB;&#xB;</span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">配偶    </span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">子女   □父母    □其他近亲属   □同事   □朋友</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">                □其他</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人2 姓名：        性别：      年龄：         联系电话：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    与患者关系：&#xB;&#xB;</span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">配偶    </span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">子女   □父母    □其他近亲属   □同事   □朋友</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">                □其他</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人3 姓名：        性别：      年龄：         联系电话：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    与患者关系：&#xB;&#xB;</span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">配偶    </span>
+            <span fontname="仿宋" fontsize="10.5">□</span>
+            <span fontname="宋体" fontsize="10.5">子女   □父母    □其他近亲属   □同事   □朋友</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">                □其他</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    委托人签署同意书后所产生的后果，由患者本人承担。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    患者签字：             （手印）           年     月    日    时     分</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人1签字：          （手印）           年     月    日    时     分</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人2签字：          （手印）           年     月    日    时     分</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    受托人3签字：          （手印）           年     月    日    时     分</span>
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p>
+      <span fontname="宋体" fontsize="12"> </span>
+      <eof />
+    </p>
+  </body>
+</document>

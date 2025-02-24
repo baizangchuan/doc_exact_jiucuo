@@ -1,0 +1,69 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">病程记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-25 19:07:07" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:29:34" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" headlinespace="18" headheight="306" modifytime="20230215082934" version="1.0" modifier="1" showheader="True" showfooter="True" showheaderline="True" showfooterline="True" pagebackcolor="Color [White]" title="" id="" patientid="006766_1" />
+  <body>
+    <p>
+      <text fontbold="1" fontsize="12" type="text" name="记录日期">2022-11-25 19:06:56</text>
+      <span fontbold="1" fontsize="12">          </span>
+      <text fontsize="12" type="text" name="标题">  </text>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontsize="12">    今日刘瑞文副主任医师查房，患者一般情况可，生命体征平稳，未诉不适。查体：心肺腹查体未见明显异常，伤口敷料包扎可，未见明显渗出，引流管引流通畅，末梢血运可、感觉可，刘瑞文副主任医师看过病人及辅助检查同意目前治疗计划。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="12">                                                       </span>
+      <macro fontsize="12" type="macro" name="主任医师">
+      </macro>
+      <span fontsize="12">/</span>
+      <macro fontsize="12" type="macro" name="医师签名">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

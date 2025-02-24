@@ -1,5 +1,6 @@
 package org.example;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -15,6 +16,7 @@ import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 import org.apache.commons.compress.archivers.zip.ZipArchiveEntry;
 import org.apache.commons.compress.archivers.zip.ZipFile;
@@ -22,6 +24,89 @@ import org.apache.commons.compress.archivers.zip.ZipFile;
 
 public class FileExtract_V3 {
 
+
+    
+
+    public static void main(String[] args) {
+        try {
+            // To 彭伊敏：这些都是必要的参数
+            String org_name="test_append";
+            String name="test_append";
+            String description="test_append";
+            String recordSource = "28636105e9e74e26b534884b9f7fbf49";
+
+            //数据库配置
+            String url = "jdbc:mysql://111.9.47.74:13000/emr_parser_test";
+            String user = "root";
+            String password = "Aliab12!2020";
+
+            //To 彭伊敏：你那边只要调用这一个函数就可以
+            recordSource_Extract(recordSource, org_name, name, description, url, user, password);
+        } catch (IOException e) {
+            System.err.println("处理文件时发生错误: " + e.getMessage());
+            e.printStackTrace();
+        }
+
+
+        // //To 彭伊敏：这一段你不用管，这是文件处理模块，你好像已经在服务器里做过了
+        // String zipFilePath = "C:\\Users\\13205\\demo\\file\\415801168(1).zip";
+        // // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\4158011682";
+        // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\"+org_name;
+        // Created_path(destDir);
+        // // unzip(zipFilePath, destDir);
+        // List<Path> txtFiles = listAllTxtFiles(destDir);//遍历文件（只做仅有一个文件夹的）（这里后面要改成相对路径）
+
+
+//         //To 彭伊敏：你喂入content的时候也要把这个content对应的txt的文件名（中文）一起喂进来
+//         List<String> content_list=new ArrayList<>();
+//         List<String> file_name_list=new ArrayList<>();
+//         List<Integer> content_id_list=new ArrayList<>();
+
+//         // for (Path file : txtFiles) {
+//         //     try {
+//         //         // 使用 Files.readString 方法读取文件的所有内容
+//         //         String content = Files.readString(file);
+//         //         content_list.add(content);
+//         //         // 获取文件名
+//         //         String fileName = file.getFileName().toString().replace(".txt", "");
+//         //         file_name_list.add(fileName);
+//         //     } catch (IOException e) {
+//         //         e.printStackTrace();
+//         //     }
+//         // }
+
+
+
+//         // 获取content_list和file_name_list
+//         ForSpringboot.getContentAndNormRecordType(url, user, password, recordSource, content_list, file_name_list, content_id_list);
+
+//         //To 彭伊敏：这一段也是必要的，需要出现在你那边的函数上
+//         //创建parse_task table(若没有)
+//         CreateTableForFile.Create_parse_task("hp_parse_task", url, user, password);
+//         //创建用于存正则的表
+//         CreateTableForFile.Create_New_config_node("new_template", url, user, password);
+//         //创建用于存文档的表
+//         CreateTableForFile.Create_New_emr_record("hp_emr_record", url, user, password);
+//         //创建用于展示所有doc_type的表
+//         CreateTableForFile.Create_template_config("hp_template_config", url, user, password);
+
+//         //To 彭伊敏：最终就是用这个循环来喂入你的content
+//         for(int i=0; i<content_list.size(); i++){
+
+//             String content=content_list.get(i);
+//             String file_name=file_name_list.get(i);
+//             Integer content_id=content_id_list.get(i);
+
+//             // To 彭伊敏：处理content是这个函数，这里面新建及修改的表，我写在了https://bvqlwk2vse5.feishu.cn/wiki/ZbeEwfC0mi6dgUkOZ27ciMEGnCd
+//             //规则是从之前的表'new_template'中抽取的，注意不要把这个表删掉哈
+//             single_content_for_zip(content, file_name, content_id, org_name, name, description, url, user, password);
+
+//         }
+
+//         //插入parse_task table
+//         int sample_num=content_list.size();
+//         CreateTableForFile.Insert_parse_task("hp_parse_task", name, description, sample_num, org_name,recordSource, url, user, password);
+    }
     public static void unzip(String zipFilePath, String destDir) {
         File dir = new File(destDir);
         if (!dir.exists()) dir.mkdirs();
@@ -119,28 +204,13 @@ public class FileExtract_V3 {
             //由content得到doc_type
             ArrayList<HashMap<String, Object>> database_doctype_list = Get_File_docType.GetDataFromDatabase("new_template", url, user, password);//！！！！表名有问题，后面要改
             System.err.println(database_doctype_list);
-            String type_content=Get_docType.extractSubstring(content);//取content的前后各30个字符用于分类
+            String type_content=Get_docType.extractSubstring(content);//取content的前后各30个字符用于识别类别
             String doc_type = Get_File_docType.Get_DocType_zh(type_content, database_doctype_list);
             System.err.println(doc_type);
 
             //获取任务id
             int parse_task_id= CreateTableForFile.Get_content_id("hp_parse_task","","", "", "", url, user, password)+1;
             System.err.println("-----------parse_task_id:"+parse_task_id);
-
-            // Map<String,Object> args=new HashMap<>();
-            // args.put("doc_type_zh", doc_type_zh);
-            // args.put("doc_type_en", doc_type_en);
-            // args.put("content", content);
-            // args.put("org_name", org_name);
-            // args.put("url", url);
-            // args.put("user", user);
-            // args.put("password", password);
-            // args.put("parse_task_id",parse_task_id );
-            // args.put("", );
-            // args.put("", );
-            // args.put("", );
-
-
 
 
             //若doc_type存在，则启用解析，并登记到hp_emr_record（添加文本），并修改hp_template_config（相应doc_type匹配数+1），跳过后面步骤
@@ -174,7 +244,7 @@ public class FileExtract_V3 {
             System.out.println(exited_table);
             System.out.println("------------------------------------------------exited_table ↑");
     
-            exited_table=Database_old_table.sortTable(exited_table, content);
+            exited_table=Database_old_table.sortTable(exited_table, content);//要用到那个按次序出现的排序函数   
             System.out.println(Table.extract_List_by_key(exited_table,"name"));
             System.out.println(exited_table);
             System.out.println("------------------------------------------------sorted_table ↑");
@@ -206,8 +276,8 @@ public class FileExtract_V3 {
         //建表存储
 
     }
-    public static void recordSource_Extract(String recordSource, String org_name, String name, String description, String url, String user, String password){
-        Integer local_test_mode=0;
+    public static void recordSource_Extract(String recordSource, String org_name, String name, String description, String url, String user, String password) throws IOException {
+        Integer local_test_mode=1;
 
         //To 彭伊敏：你喂入content的时候也要把这个content对应的txt的文件名（中文）一起喂进来
         List<String> content_list=new ArrayList<>();
@@ -215,23 +285,28 @@ public class FileExtract_V3 {
         List<Integer> content_id_list=new ArrayList<>();
         if (local_test_mode==1){
 
-            String zipFilePath = "C:\\Users\\13205\\demo\\file\\演示医院.zip";
-            // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\4158011682";
-            String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\"+org_name;
-            Created_path(destDir);
-            unzip(zipFilePath, destDir);
-            List<Path> txtFiles = listAllTxtFiles(destDir);//遍历文件（只做仅有一个文件夹的）（这里后面要改成相对路径）
+            // String zipFilePath = "./file/演示医院.zip";
+            // // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\4158011682";
+            // String destDir = "./file/doc_txt"+org_name;
+            // Created_path(destDir);
+            // unzip(zipFilePath, destDir);
 
+            String destDir = "/Users/baicangchuan/Desktop/demo/file/doc_txt/hhj0909_1416/4158011682";
+            List<Path> txtFiles = listAllTxtFiles(destDir);//遍历文件（只做仅有一个文件夹的）（这里后面要改成相对路径）
+            System.err.println(txtFiles);
+            int i=0;
             for (Path file : txtFiles) {
-                try {
-                    // 使用 Files.readString 方法读取文件的所有内容
-                    String content = Files.readString(file);
+                try (BufferedReader reader = Files.newBufferedReader(file)) {
+                    String content = reader.lines().collect(Collectors.joining("\n"));
                     content_list.add(content);
-                    // 获取文件名
                     String fileName = file.getFileName().toString().replace(".txt", "");
                     file_name_list.add(fileName);
+                    content_id_list.add(i);
+                    i++;
                 } catch (IOException e) {
-                    e.printStackTrace();
+                    System.err.println("无法读取文件: " + file + ", 错误: " + e.getMessage());
+                    // 这里可以选择跳过这个文件继续处理其他文件
+                    continue;
                 }
             }   
         }
@@ -242,7 +317,9 @@ public class FileExtract_V3 {
         // List<String> file_name_list=new ArrayList<>();
         // List<Integer> content_id_list=new ArrayList<>();
     
-        ForSpringboot.getContentAndNormRecordType(url, user, password, recordSource, content_list, file_name_list, content_id_list);
+        // 测试模式注释掉下一行
+        // ForSpringboot.getContentAndNormRecordType(url, user, password, recordSource, content_list, file_name_list, content_id_list);
+
         //创建parse_task table(若没有)
         CreateTableForFile.Create_parse_task("hp_parse_task", url, user, password);
         //创建用于存正则的表
@@ -274,84 +351,5 @@ public class FileExtract_V3 {
         int sample_num=content_list.size();
         CreateTableForFile.Insert_parse_task("hp_parse_task", name, description, sample_num, org_name,recordSource, url, user, password);
 
-    }
-    
-
-    public static void main(String[] args) {
-
-
-        // To 彭伊敏：这些都是必要的参数
-        String org_name="test_append";
-        String name="test_append";
-        String description="test_append";
-        String recordSource = "28636105e9e74e26b534884b9f7fbf49";
-
-        //数据库配置
-        String url = "jdbc:mysql://111.9.47.74:13000/emr_parser";
-        String user = "root";
-        String password = "Aliab12!2020";
-
-        //To 彭伊敏：你那边只要调用这一个函数就可以
-        recordSource_Extract(recordSource, org_name, name, description, url, user, password);
-
-
-        // //To 彭伊敏：这一段你不用管，这是文件处理模块，你好像已经在服务器里做过了
-        // String zipFilePath = "C:\\Users\\13205\\demo\\file\\415801168(1).zip";
-        // // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\4158011682";
-        // String destDir = "C:\\Users\\13205\\demo\\file\\doc_txt\\"+org_name;
-        // Created_path(destDir);
-        // // unzip(zipFilePath, destDir);
-        // List<Path> txtFiles = listAllTxtFiles(destDir);//遍历文件（只做仅有一个文件夹的）（这里后面要改成相对路径）
-
-
-//         //To 彭伊敏：你喂入content的时候也要把这个content对应的txt的文件名（中文）一起喂进来
-//         List<String> content_list=new ArrayList<>();
-//         List<String> file_name_list=new ArrayList<>();
-//         List<Integer> content_id_list=new ArrayList<>();
-
-//         // for (Path file : txtFiles) {
-//         //     try {
-//         //         // 使用 Files.readString 方法读取文件的所有内容
-//         //         String content = Files.readString(file);
-//         //         content_list.add(content);
-//         //         // 获取文件名
-//         //         String fileName = file.getFileName().toString().replace(".txt", "");
-//         //         file_name_list.add(fileName);
-//         //     } catch (IOException e) {
-//         //         e.printStackTrace();
-//         //     }
-//         // }
-
-
-
-//         // 获取content_list和file_name_list
-//         ForSpringboot.getContentAndNormRecordType(url, user, password, recordSource, content_list, file_name_list, content_id_list);
-
-//         //To 彭伊敏：这一段也是必要的，需要出现在你那边的函数上
-//         //创建parse_task table(若没有)
-//         CreateTableForFile.Create_parse_task("hp_parse_task", url, user, password);
-//         //创建用于存正则的表
-//         CreateTableForFile.Create_New_config_node("new_template", url, user, password);
-//         //创建用于存文档的表
-//         CreateTableForFile.Create_New_emr_record("hp_emr_record", url, user, password);
-//         //创建用于展示所有doc_type的表
-//         CreateTableForFile.Create_template_config("hp_template_config", url, user, password);
-
-//         //To 彭伊敏：最终就是用这个循环来喂入你的content
-//         for(int i=0; i<content_list.size(); i++){
-
-//             String content=content_list.get(i);
-//             String file_name=file_name_list.get(i);
-//             Integer content_id=content_id_list.get(i);
-
-//             // To 彭伊敏：处理content是这个函数，这里面新建及修改的表，我写在了https://bvqlwk2vse5.feishu.cn/wiki/ZbeEwfC0mi6dgUkOZ27ciMEGnCd
-//             //规则是从之前的表‘new_template’中抽取的，注意不要把这个表删掉哈
-//             single_content_for_zip(content, file_name, content_id, org_name, name, description, url, user, password);
-
-//         }
-
-//         //插入parse_task table
-//         int sample_num=content_list.size();
-//         CreateTableForFile.Insert_parse_task("hp_parse_task", name, description, sample_num, org_name,recordSource, url, user, password);
     }
 }

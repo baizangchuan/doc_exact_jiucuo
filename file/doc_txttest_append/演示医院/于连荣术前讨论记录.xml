@@ -1,0 +1,252 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">术前讨论记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">于连荣</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">女</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">60岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">60</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006826</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2023-02-15 08:53:41" level="0" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" headlinespace="18" headheight="306" modifytime="20230215085341" version="1.0" modifier="0" showheader="True" showfooter="True" showheaderline="True" showfooterline="True" pagebackcolor="Color [White]" title="" id="" patientid="006826_1" />
+  <body>
+    <p align="0">
+      <span type="fixedtext" name="固定文本" level="" print="True" showborder="False" fontbold="1" fontsize="14">                       </span>
+      <span fontbold="1" fontsize="12">         </span>
+      <text fontsize="12" type="text" name="标题">   </text>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">讨论时间</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="讨论时间" formatString="yyyy年MM月dd日HH时mm分">讨论时间</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">参加讨论者的姓名和专业技术职务</span>
+      <span fontname="宋体" fontsize="12">：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">主持人：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">参加人员：</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="4">
+        <column-width width="475" />
+        <column-width width="472" />
+        <column-width width="478" />
+        <column-width width="477" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">姓 名</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="472" height="88" contentwidth="432" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">专业技术职务</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="478" height="88" contentwidth="438" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">姓 名</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">专业技术职务</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="472" height="88" contentwidth="432" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">副主任医师</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="478" height="88" contentwidth="438" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">主治医师</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="472" height="88" contentwidth="432" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">主治医师</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="478" height="88" contentwidth="438" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">住院医师</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="472" height="88" contentwidth="432" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12">住院医师</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="478" height="88" contentwidth="438" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">手术指征</span>
+      <span fontname="宋体" fontsize="12">：1、症状：上腹部疼痛不适，返算、恶心呕吐。2、予以抗炎、抑酸、保护胃黏膜、增加胃动力、止痛等治疗症状缓解不明显。3、影响患者正常生活，患者要求手术。4、患者中年女性，身体素质良好。5、查无明显手术禁忌症。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">手术方案</span>
+      <span fontname="宋体" fontsize="12">：拟在全麻下行腹腔镜下食管裂孔疝修补术。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">术前准备</span>
+      <span fontname="宋体" fontsize="12">：1、禁食水12小时以上 2、向患者及其家属交待病情，签手术同意书 3、备皮 4、术前置尿管等。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">具体讨论意见（可能出现的意外及防范措施）：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">	</span>
+      <span fontname="宋体" fontsize="12">由刘福彪医师汇报病例：患者郝秀英，女，90岁，主因“腹部疼痛1天”于2015年11月04日 10:00入院。入院后完善各项检查，腹部CT及上消化道造影检查提示：食管裂孔疝。</span>
+      <br />
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">高连中 副主任医师：从术前检查上消化道造影、腹部CT看，考虑食管裂孔疝，故手术治疗是最佳选择。术式一般采用“腹腔镜下食管裂孔疝修补术”。术中难度主要在疝内容物复位、疝修补，可用补片修补，效果好。术后给予抑酸、保护胃黏膜、增加胃动力等治疗。向患者及家属交代好病情及并发症。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">屈广新 主治医师：术中注意解剖层次，避免副损伤。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="10.5">钱 鑫 </span>
+      <span fontname="宋体" fontsize="12">  主治医师：术前向患者及家属交代好病情，签手术知情同意书，主要交待术后腹痛、嗳气、打嗝、恶心呕吐症状不缓解或缓解不明显。补片排斥反应、异物感等。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">刘福彪 执业医师：术后预防感染、抑酸、保护胃黏膜、增加胃动力等治疗。    </span>
+      <eof />
+    </p>
+    <p>
+      <span fontname="宋体" fontsize="12">冯万搏 执业医师：患者高龄，术中注意患者生命体征变化，注意心肺功能。</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="3">
+        <column-width width="634" />
+        <column-width width="634" />
+        <column-width width="634" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <span fontname="宋体" fontsize="12" fontbold="1">主持人：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="634" height="88" contentwidth="594" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" fontbold="1">医师签字：</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+  </body>
+</document>

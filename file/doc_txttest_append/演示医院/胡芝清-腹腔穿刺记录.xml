@@ -1,0 +1,77 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">腹腔穿刺术记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-25 18:50:18" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:20:20" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215082020" version="1.0" modifier="1" patientid="006940_1" />
+  <body>
+    <p>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="格式化日期时间" formatString="yyyy-MM-dd">2016-09-03</ftimeelement>
+      <eof />
+    </p>
+    <p align="0">
+      <br />
+      <span fontname="宋体" fontsize="12">   向患者及家属交代病情及腹腔穿刺术并发症，同意并签字后行胸腔穿刺置管术，术前予行彩超胸水定位穿刺点，嘱患者取仰卧位，充分暴露穿刺部位皮肤，以碘伏常规消毒皮肤3次，戴无菌手套铺无菌洞巾，用2%利多卡因自穿刺点逐层浸润麻醉，拔出注射器，用5ml带孔注射器垂直刺入穿刺点，有落空感时外接导丝，推入15cm,退出注射器，用扩皮器传入导丝，扩张皮肤，退出扩皮器，用一次性中心静脉导管穿入导丝，沿导丝推入</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="格式化数字" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0">格式化数字</fnumelement>
+      <span fontname="宋体" fontsize="12">cm，退出导丝，用输血器外接导管，引出淡红色腹腔积液，常规消毒穿刺点周围皮肤、皮导管接口，用进口贴外固定，穿刺过程顺利，患者无不适主诉。共引流出</span>
+      <selement fontname="宋体" fontsize="12" mustclick="False" code="" type="singleelement" name="单选" text="单选" />
+      <span fontname="宋体" fontsize="12">腹腔积液约</span>
+      <fnumelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatnumber" name="格式化数字" maxvalue="9999" minvalue="0" length="4" decimalDigits="0" value="0">格式化数字</fnumelement>
+      <span fontname="宋体" fontsize="12">ml，引流完毕后以0.9%肝素钠盐水5ml封管，用无菌辅料包裹肝素帽及导管，以胶布外固定。嘱患者不洗澡，穿刺点周围不沾水，穿刺成功。术者</span>
+      <flag type="flag" name="定位符" code="" candelete="False" direction="Right" isholdspacewhenprint="False" />
+      <flag type="flag" name="定位符" code="" candelete="False" direction="Left" isholdspacewhenprint="False" />
+      <span fontname="宋体" fontsize="12">主治医师，助手</span>
+      <flag type="flag" name="定位符" code="" candelete="False" direction="Right" isholdspacewhenprint="False" />
+      <flag type="flag" name="定位符" code="" candelete="False" direction="Left" isholdspacewhenprint="False" />
+      <span fontname="宋体" fontsize="12">医师。                                               </span>
+      <br />
+      <span fontname="宋体" fontsize="12">                                                                </span>
+      <macro fontname="宋体" fontsize="12" type="macro" name="医师签名">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

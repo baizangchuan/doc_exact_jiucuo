@@ -1,0 +1,108 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">冠脉介入特殊检查特殊治疗同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">刘学峰</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">
+      </macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">47</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006766</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 23:39:41" level="0" />
+    <savelog name="" time="2022-11-25 19:18:12" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:36:12" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215083612" version="1.0" modifier="2" patientid="006766_1" />
+  <body>
+    <p>
+      <span fontname="宋体" fontsize="12" fontbold="1">特殊检査或治疗项目名称</span>
+      <span fontname="宋体" fontsize="12">:冠脉造影+PTCA+支架植入术 </span>
+      <br />
+      <span fontname="宋体" fontsize="12">实施特殊检査或特殊治疗的目的:  明确冠脉病变，及进一步治疗。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">特殊检査或特殊治疗的优点:冠脉造影的优点:对冠脉狭窄的程度判定准确,可动态观察冠脉血流情况,目前为冠心病诊断的“金标准'' 。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">冠脉介入治疗的优点:手术创伤小,恢复快,能急诊开通闭塞罪犯血管,改善患者预后, 提高生存率。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">其他可能的选择:冠脉CTA、外科冠脉搭桥术。</span>
+      <br />
+      <span fontname="宋体" fontsize="12" fontbold="1">可能出现的并发症及风险:</span>
+      <br />
+      <span fontname="宋体" fontsize="12">1、出血(包括动脉或静脉大出血) ;腹膜后出血;内脏出血</span>
+      <br />
+      <span fontname="宋体" fontsize="12">2、感染(局部或全身) ;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">3、碘过敏反应(包括过敏性休克) ;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">4、心律失常(包括重度房室传导阻滞、室性心动过速、心室颤动、心脏骤停) ;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">5、血管发育异常需要更换穿刺部位;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">6、血管病变严重、意外断电、机械故障致手术中断失败;体内导管导丝打结、断裂;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">7、心脏瓣膜撕裂,心包填塞、心肌穿孔、血管夹层破裂、冠脉破裂;猝死; </span>
+      <br />
+      <span fontname="宋体" fontsize="12">8、急性心肌梗塞,肺栓塞,心力衰竭,肾功能衰竭,肝功能衰竭,脑卒中,迷走反射,休克,抢救过程导致骨折、烫伤,血气胸,神经损伤;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">9、动静脉血栓栓塞,动、静脉瘘,血肿;假性动脉瘤;</span>
+      <br />
+      <span fontname="宋体" fontsize="12">10、支架内再狭窄;支架脱载;支架内急性、亚急性血栓形成:晚期血栓形成; </span>
+      <br />
+      <span fontname="宋体" fontsize="12">11、上述情况导致的其他脏器受损;肢体残疾甚至死亡;术后原疾病复发; 术后用药诱发血液系统疾病,肝肾功能损伤,肌痛肌溶解等。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">12、冠脉内支架植入术仅为血流重建术,并非根治术,部分病人术后可能还会有心绞痛心梗死等情况发生。 </span>
+      <br />
+      <span fontname="宋体" fontsize="12">    如果出现上述情况,我们将积极救治,除对症处理外,可能需要直流电复，心包穿刺及引流, 安装临时或永久起搏器, 使用主动脉气囊反搏、 紧急溶栓以及外科手术治疗。 </span>
+      <br />
+      <span fontname="宋体" fontsize="12">    患者是否有消化道溃疡史、黑便史、肾病史、脑出血、脑梗死、肝病史及6 个月内手术外伤史 。 如果有上述病史请注明。_____________</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    上述内容已向患者及家属详细解释, 患者及家属已了解该诊疗方案及相关风险,同意该项诊治方案,并承担相关费用及风险。</span>
+      <br />
+      <span fontname="宋体" fontsize="12">    因病情需要,在住院期间可能多次进行此项措施,并发症及风险上。 </span>
+      <br />
+      <span fontname="宋体" fontsize="12">患者或代理人意见:同意 </span>
+      <br />
+      <span fontname="宋体" fontsize="12">患者或代理人签名:                       年   月   日   时   分</span>
+      <br />
+      <span fontname="宋体" fontsize="12">医  师  签  名:                         年   月   日   时   分</span>
+      <eof />
+    </p>
+  </body>
+</document>

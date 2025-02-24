@@ -1,0 +1,219 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">气管切开术知情书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 17:54:06" level="0" />
+    <savelog name="" time="2022-11-25 15:01:17" level="0" />
+    <savelog name="王辉" time="2022-11-25 18:43:16" level="2" />
+    <savelog name="王辉" time="2023-02-15 08:14:28" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215081428" version="1.0" modifier="3" patientid="006940_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="1">
+        <column-width width="1902" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="234" contentwidth="1862" contentheight="204" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    疾病介绍和治疗建议：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    该患者临床诊断为                 ，为保证气道通畅，改善呼吸功能，抢救生命，需在局麻+静脉镇静镇痛下进行气管切开术。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="2082" contentwidth="1862" contentheight="2052" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    该操作是一种有效的治疗手段，一般来说是安全的，但由于该操作具有创伤性和风险性，患者个体差异及其某些不可预料的因素，使用过程中可能会发生意外和并发症，严重者甚至会导致死亡，为此特别郑重向患者或委托代理人治疗中治疗后可能发生的意外情况及并发症，包括但不限于； </span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    1、任何麻醉都存在风险。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    2、任何所用物都可能产生副作用，包括轻度恶心、皮疹等症状到严重的过敏性休克、窒息，甚至危及生命。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    3、心脑血管意外：心律失常、心跳骤停等。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    4、术中损伤气管、血管及其周围组织，可 导致①血管损伤，出血；②食管损伤，气管-食道瘘；少见。较小的、时间不长的瘘孔，有时可自行愈合，瘘口较大的或时间较长、上皮已长入瘘口者，只能手术修补；③神经损伤：包括喉返神经，喉上神经；④甲状腺损伤，出血；⑤皮下气肿：是手术后常见的并发症，大多数于数日后可自行吸收，不需要特殊处理。⑥气胸及纵膈气肿：轻者无明显症状，严重者可引起窒息。此时应行胸膜穿刺，抽出气体。严重者可行闭式引流术。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    5、出血：术中伤口少量出血，可压迫止血，若出血较多，可能有血管损伤，可能需手术结扎出血点。术后出血，对症处理。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    6、由于垫肩或体位变动导致原发病加重，甚至危及生命。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    7、肺部并发症：如肺炎、肺脓肿，支气管炎、肺炎、肺不张等</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    8、术中术后急性窒息致死亡。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    9、术后喉、气管狭窄。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    10、术后伤口感染，不愈合或愈合延迟。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    11、术后呼吸功能不佳，导致拔管延迟或终生带管，长期带管摩擦可致气管食管瘘、致命性出血：根据不同病因，酌情处理。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    12、术后脱管，窒息、死亡。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    13、其它难以预料的意外。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    针对该患者可能出现的特殊风险或主要高危因素；</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">特别提示：</span>
+            <span fontname="宋体" fontsize="10.5">该手写的内容，是针对每一个不同患者所做的特别告知，对于上述并发症的发生，医生将会尽到应尽的注意义务，若发生上述风险及意外情况，医生会采取积极的救治措施。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="696" contentwidth="1862" contentheight="666" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    患者知情选择</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    ★ 我的医生已经告知我将要进行的操作方式、此次操作及操作后可能发生的并发症和风险、可能存在的其它治疗方法并且解答了我关于此次操作的相关问题。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    ★ 我并未得到手术百分之百成功的许诺，我自愿同意实施。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    ★ 如果我患有高血压、心脏病、糖尿病、肝肾功能不全、静脉血栓等疾病或者有吸烟史、过敏史，以上这些风险可能会加大，或者在术中或术后出现相关的病情加重或心脑血管意外，甚至死亡。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    ★ 我理解术中术后如果不遵医嘱，可能影响操作及操作效果。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    ★ 我理解该项检查结果有可能达不到预期目的。</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="619" contentwidth="1862" contentheight="589" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    医生将各种检查治疗方案及各种风险详细向我进行了告知，我已经充分了解病情及医疗风险，经过慎重考虑，我志愿选择此项操作，并有充分的思想准备承担可能面临的风险及由此增加的医疗费用。特此签字为证：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    患者或授权（法定）代理人意见</span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    1、理解上述内容及风险                        2、同意进行该项操作</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    患者或授权（法定）代理人签字：                代理人与患者关系：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    授权（法定）代理人通信地址：                  联系电话：</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    授权（法定）代理人工作单位：                  年    月    日</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1902" height="317" contentwidth="1862" contentheight="287" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">医生陈述：</span>
+            <br />
+            <span fontname="宋体" fontsize="10.5">    我已经告知患者或授权（法定）代理人将要进行的操作方式、此处操作及操作后可能发生的并发症和风险、可能存在的其他治疗方法并解答了患者关于此次手术的相关问题。</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5">    </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">告知医师签名：</span>
+            <span fontname="宋体" fontsize="10.5">                                 年     月    日</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p>
+      <eof />
+    </p>
+  </body>
+</document>

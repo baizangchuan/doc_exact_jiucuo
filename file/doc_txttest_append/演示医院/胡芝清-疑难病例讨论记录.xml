@@ -1,0 +1,163 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">疑难病例讨论</span>
+      <span fontname="宋体" fontsize="22" fontbold="1">记录</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 18:02:59" level="0" />
+    <savelog name="" time="2022-11-25 18:55:08" level="0" />
+    <savelog name="管理员" time="2022-11-25 20:38:48" level="2" />
+    <savelog name="" time="2022-11-25 20:40:28" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:21:23" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215082123" version="1.0" modifier="4" patientid="006940_1" />
+  <body>
+    <p>
+      <span fontname="宋体" fontsize="12">讨论日期：</span>
+      <ftimeelement fontname="宋体" fontsize="12" mustclick="False" code="" type="formatdatetime" name="双击获取时间" formatString="yyyy年MM月dd日HH时mm分">双击获取时间</ftimeelement>
+      <span fontname="宋体" fontsize="12">                   地点：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">主持人姓名：                 专业技术职务：             记录人：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12" fontbold="1">参加人员：</span>
+      <eof />
+    </p>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="1">
+      <table-column columns-number="4">
+        <column-width width="475" />
+        <column-width width="475" />
+        <column-width width="475" />
+        <column-width width="477" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" fontbold="1">姓名</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" fontbold="1">专业技术职务：</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" fontbold="1">姓名</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12" fontbold="1">专业技术职务：</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="475" height="88" contentwidth="435" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="0" border-width-right="0" border-width-bottom="0" border-width-left="0" width="477" height="88" contentwidth="437" contentheight="58" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+    </table>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">讨论意见：</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="12">	</span>
+      <span fontname="宋体" fontsize="12" fontbold="1">主持人签名： </span>
+      <macro fontname="宋体" fontsize="12" fontbold="1" type="macro" name="医师签名">王辉</macro>
+      <span fontname="宋体" fontsize="12" fontbold="1">                            记录人签名：</span>
+      <macro fontname="宋体" fontsize="12" fontbold="1" type="macro" name="医师签名">王辉</macro>
+      <eof />
+    </p>
+  </body>
+</document>

@@ -1,0 +1,512 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">使用自费、贵重药品、检查和医用耗材告知同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p>
+      <horizontalLine lineHeight="1">
+      </horizontalLine>
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="10">第[%pageindex%]页 / 共[%pagecount%]页</span>
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 17:51:47" level="0" />
+    <savelog name="" time="2022-11-25 18:42:28" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:13:30" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215081330" version="1.0" modifier="2" patientid="006940_1" />
+  <body>
+    <table align="1" title="" fixwidth="1" width="1902" hidden-all-border="0">
+      <table-column columns-number="6">
+        <column-width width="159" />
+        <column-width width="479" />
+        <column-width width="428" />
+        <column-width width="363" />
+        <column-width width="232" />
+        <column-width width="241" />
+      </table-column>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="6" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="1902" height="396" contentwidth="1862" contentheight="366" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">    </span>
+            <span fontname="宋体" fontsize="10.5">尊敬的患者、法定代理人或授权委托人：</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    根据有关规定，下列药品/材料</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    □不属于或者部分不属于公费医疗、大病统筹和社会基本医疗保险报销范围，此种药品、材料的费用须由患者个人承担。患者可以选择是否使用此种自费药品、材料。</span>
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5">    □下列药品或检查收费可能对您造成较大经济负担。</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+        <table-cell />
+        <table-cell />
+        <table-cell />
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="2" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="856" contentwidth="119" contentheight="826" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <span fontname="宋体" fontsize="10.5">序号</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="2" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="856" contentwidth="439" contentheight="826" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <eof />
+          </p>
+          <p align="2">
+            <eof />
+          </p>
+          <p align="0">
+            <span fontname="宋体" fontsize="10.5" fontbold="1">自费药品/医用耗材/检查收费或药品费用较高</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="2" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="791" height="428" contentwidth="751" contentheight="398" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">    </span>
+            <span fontname="宋体" fontsize="10.5">患者、法定代表人或授权委托人意见：有关此种药品/材料需要患者个人承担费用的情况，医生已经向我们详细告知（</span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">患者或其授权的亲属在此签名</span>
+            <span fontname="宋体" fontsize="10.5">）</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="2" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="856" contentwidth="192" contentheight="826" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12"> </span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12">  </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">医生 </span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">  签字</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="2" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="856" contentwidth="201" contentheight="826" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p align="0">
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="12"> </span>
+            <span fontname="宋体" fontsize="12" fontbold="1"> </span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">签字</span>
+            <eof />
+          </p>
+          <p>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">  日期</span>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell />
+        <table-cell />
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="428" contentwidth="388" contentheight="398" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">我</span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">同意</span>
+            <span fontname="宋体" fontsize="10.5">使用，并同意个人承担此种药品/材料的费用。</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="428" contentwidth="323" contentheight="398" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">我</span>
+            <span fontname="宋体" fontsize="10.5" fontbold="1">不同意</span>
+            <span fontname="宋体" fontsize="10.5">使用，对所发生的一切后果我自行承担责任。</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+        <table-cell />
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  1</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  2</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  3</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  4</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  5</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  6</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  7</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  8</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="159" height="138" contentwidth="119" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="12">  9</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="479" height="138" contentwidth="439" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="428" height="138" contentwidth="388" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="363" height="138" contentwidth="323" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="0" border-width-bottom="0" border-width-left="1" width="232" height="138" contentwidth="192" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell caninsertenter="True" line-style="0" colspan="1" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="0" border-width-left="1" width="241" height="138" contentwidth="201" contentheight="58" padding-top="40" padding-right="20" padding-bottom="40" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <eof />
+          </p>
+        </table-cell>
+      </table-row>
+      <table-row>
+        <table-cell caninsertenter="True" line-style="0" colspan="6" rowspan="1" halign="-1" valign="-1" border-width-top="1" border-width-right="1" border-width-bottom="1" border-width-left="1" width="1902" height="80" contentwidth="1862" contentheight="50" padding-top="20" padding-right="20" padding-bottom="10" padding-left="20" key1="" key2="" key3="">
+          <p>
+            <span fontname="宋体" fontsize="10.5">注：关于药品和耗材其他告知内容详见具体的使用说明书。</span>
+            <eof />
+          </p>
+        </table-cell>
+        <table-cell />
+        <table-cell />
+        <table-cell />
+        <table-cell />
+        <table-cell />
+      </table-row>
+    </table>
+    <p>
+      <eof />
+    </p>
+  </body>
+</document>

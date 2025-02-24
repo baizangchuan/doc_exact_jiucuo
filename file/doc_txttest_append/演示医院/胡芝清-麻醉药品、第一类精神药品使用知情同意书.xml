@@ -1,0 +1,143 @@
+<document>
+  <pagesettings>
+    <page kind="A4" width="790" height="1169" />
+    <margins left="100" top="51" right="50" bottom="51" />
+    <landscape value="False" />
+  </pagesettings>
+  <header>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">斯普德演示医院</span>
+      <eof />
+    </p>
+    <p align="2">
+      <span fontname="宋体" fontsize="16" fontbold="1">麻醉药品、第一类精神药品使用知情同意书</span>
+      <eof />
+    </p>
+    <p align="0">
+      <span fontname="宋体" fontsize="10.5">姓名：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="姓名">胡芝清</macro>
+      <span fontname="宋体" fontsize="10.5">    性别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="性别">男</macro>
+      <span fontname="宋体" fontsize="10.5">    年龄：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="年龄">35岁</macro>
+      <span fontname="宋体" fontsize="10.5">    科别：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="科室">消化内分泌科</macro>
+      <span fontname="宋体" fontsize="10.5">    床号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="床号">62</macro>
+      <span fontname="宋体" fontsize="10.5">    病案号：</span>
+      <macro fontname="宋体" fontsize="10.5" type="macro" name="住院号">006940</macro>
+      <eof />
+    </p>
+    <p align="0">
+      <horizontalLine type="horizontalLine" name="水平线" lineHeight="2" percent="100" />
+      <eof />
+    </p>
+  </header>
+  <footer>
+    <p align="2">
+      <span fontsize="10.5">第[%pageindex%]页</span>
+      <eof />
+    </p>
+  </footer>
+  <underwritemarks />
+  <savelogs>
+    <savelog name="" time="2022-11-24 17:50:57" level="0" />
+    <savelog name="" time="2022-11-25 18:41:55" level="0" />
+    <savelog name="王辉" time="2023-02-15 08:12:43" level="2" />
+  </savelogs>
+  <docsetting documentmodel="Edit" linespacing="27" title="" id="" modifytime="20230215081243" version="1.0" modifier="2" patientid="006940_1" />
+  <body>
+    <p>
+      <span fontname="宋体" fontsize="14">    《麻醉药品和精神药品管理条例》于2005年11月1日实施。为了提 高疼痛及相关疾病患者的生存质量，方便患者领用麻醉药品和第一类精神 药品（以下简称麻醉和精神药品），防止药品流失，在首次建立门诊病历 前，请您认真阅读以下内容：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontbold="1" fontname="宋体">一、患者所拥有权利：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontbold="1" fontname="宋体">    </span>
+      <span fontsize="14" fontname="宋体">(一)有在医师、药师指导下获得药品的权利；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (二)有从医师、药师、护师处获得麻醉和精神药品正确、安全、有效使</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">用和保存常识的权利；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (三)有委托亲属或者监护人代领麻醉药品的权利；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (四)权利受侵害时向有关部门投诉的权利。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    受理投诉卫生行政主管部门：	                      电话：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontbold="1" fontname="宋体">二、患者及其亲属或者监护人的义务：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontbold="1" fontname="宋体">    </span>
+      <span fontsize="14" fontname="宋体">(一)遵守相关法律、法规有关规定；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (二)如实说明病情及是否药物依赖或药物滥用史；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (三)患者不再使用麻醉和精神药品时，立即停止取药并将剩佘的药品无偿交回建立门诊病历医院；</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (四)不向他人转让或者贩卖麻醉和精神药品。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontname="宋体" fontbold="1">三、重要提示：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="15" fontname="宋体" fontbold="1">    </span>
+      <span fontsize="14" fontname="宋体">(一)麻醉和精神药品仅供患者因疾病需要而使用，其他一切用作他用或者非法持有的行为，都可能导致您触犯刑律或其它法律、规定，要承担相应法律责任。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    (二)违反有关规定时，患者或者代办人均要承担相应法律责任。</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    以上内容本人已经详细阅.读，同意在享有上述权利的同时，履行相应 的义务。</span>
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p align="0">
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    医疗机构(章）：	                  患者(家属)签名：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">    经办人签名：</span>
+      <eof />
+    </p>
+    <p>
+      <span fontsize="14" fontname="宋体">           年    月    日	                        年    月    日</span>
+      <eof />
+    </p>
+  </body>
+</document>
