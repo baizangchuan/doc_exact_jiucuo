@@ -1,0 +1,3 @@
+[submodule "medical-records-parsing"]
+	path = medical-records-parsing
+	url = https://github.com/baizangchuan/doc_extract_UI.git
